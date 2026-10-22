@@ -1,0 +1,54 @@
+09:48:01.192 I <4 · Logger> [Logger] PclLogger 日志初始化结束
+09:48:01.334 I [Application] 程序版本：正式版 2.13.1.1 (408)
+09:48:01.334 I [Application] 识别码：0806-E6D2-1980-1F7F
+09:48:01.334 I [Application] 程序路径：A:\Minecraft\Plain Craft Launcher 2.exe
+09:48:01.334 I [Application] 系统编码：gb2312 (936, GBK=True)
+09:48:01.334 I [Application] 管理员权限：False
+09:48:01.349 I [Application] 第一阶段加载用时：371 ms
+09:48:01.513 I [FormMain] 全新的 PCL，使用新的版本隔离默认值
+09:48:01.529 I [ModSecret] 刷新主题：0
+09:48:01.619 I [ModLoader] 加载器 LoaderTask`2 Minecraft Folder List 状态改变：Loading
+09:48:01.619 I [FormMain] 第二阶段加载用时：249 ms
+09:48:01.634 I <5 · L/Minecraft Folder List> [ModLoader] 加载器 LoaderTask`2 Minecraft Folder List 状态改变：Finished
+09:48:01.947 I [FormMain] 从设置更新背景图片与标题栏样式
+09:48:02.011 I [FormMain] 窗口已置顶，位置：(270, 155), 900 x 550
+09:48:02.019 I [FormMain] 第三阶段加载用时：80 ms
+09:48:02.019 I <7 · Animation> [ModAnimation] 动画线程开始
+09:48:02.028 I <11 · Version Check> [ModMinecraft] 当前选择的 Minecraft 文件夹：A:\Minecraft\.minecraft\
+09:48:02.163 I [ModLoader] 加载器 LoaderTask`2 Loader Skin Legacy 状态改变：Loading
+09:48:02.193 I <13 · L/Loader Skin Legacy> [ModLoader] 加载器 LoaderTask`2 Loader Skin Legacy 状态改变：Finished
+09:48:02.358 I [PageLaunchRight] 实例化：清空主页 UI，来源为空
+09:48:02.463 I <9 · 初始化> [ModJava] 共有 2 个可用的 Java：
+09:48:02.463 I <9 · 初始化> [ModJava] - Java 25 (25.0.1.0)：C:\Users\*************\AppData\Roaming\.minecraft\runtime\java-runtime-epsilon\bin\
+09:48:02.463 I <9 · 初始化> [ModJava] - Java 21 (21.0.7.0)：C:\Users\*************\AppData\Roaming\.minecraft\runtime\java-runtime-delta\bin\
+09:48:02.493 I [MySkin] 载入头像成功：Loader Skin Legacy
+09:48:02.493 I [ModAnimation] 两个动画帧间隔 330 ms
+09:48:02.508 I [ModMinecraft] 当前选择的 Minecraft 版本：A:\Minecraft\.minecraft\versions\26.2-Fabric 0.19.5\
+09:48:02.523 I [PageLaunchLeft] 启动按钮：Minecraft 版本：A:\Minecraft\.minecraft\versions\26.2-Fabric 0.19.5\
+09:48:02.538 I [ModLoader] 加载器 LoaderTask`2 登录 状态改变：Loading
+09:48:02.538 I [ModAnimation] 两个动画帧间隔 150 ms
+09:48:02.538 I <14 · L/登录> [ModLaunch] 登录加载已开始
+09:48:02.538 I <14 · L/登录> [ModLoader] 加载器 LoaderTask`2 Loader Login Legacy 状态改变：Loading
+09:48:02.538 I <15 · L/Loader Login Legacy> [ModLaunch] 登录方式：离线（lonlost）
+09:48:02.553 I <15 · L/Loader Login Legacy> [ModLoader] 加载器 LoaderTask`2 Loader Login Legacy 状态改变：Finished
+09:48:02.583 I <14 · L/登录> [ModLaunch] 登录加载已结束
+09:48:02.583 I <14 · L/登录> [ModLoader] 加载器 LoaderTask`2 登录 状态改变：Finished
+09:48:02.598 I <9 · 初始化> [ModLoader] 加载器 LoaderTask`2 DlClientList Mojang 状态改变：Loading
+09:48:02.605 I <16 · L/DlClientList Mojang> [ModNet] 发起网络请求（GET，https://launchermeta.mojang.com/mc/game/version_manifest.json），最大超时 10000
+09:48:02.605 I <9 · 初始化> [ModLoader] 加载器 LoaderTask`2 PCL 配置更新 状态改变：Loading
+09:48:02.605 I <18 · TryClearTaskTemp> [ModMain] 开始清理任务缓存文件夹
+09:48:02.605 I <18 · TryClearTaskTemp> [ModMain] 已清理任务缓存文件夹
+09:48:02.620 I <19 · Telemetry> [ModMain] 匿名数据上报：启动
+09:48:02.635 I <17 · L/PCL 配置更新> [ModNet] 发起网络请求（GET，https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg{CDN}），最大超时 10000
+09:48:02.740 I [FormMain] DPI：96，系统版本：Microsoft Windows NT 10.0.19045.0，PCL 位置：A:\Minecraft\Plain Craft Launcher 2.exe
+09:48:03.202 I <17 · L/PCL 配置更新> [ModSecret] 本地公告编号：224，服务器公告：225|412|408|6|38，需更新
+09:48:03.202 I <17 · L/PCL 配置更新> [ModSecret] 本地配置版本号：0，服务器配置版本号：38，需要更新
+09:48:03.202 I <17 · L/PCL 配置更新> [ModNet] 通过网络请求直接下载小文件：https://pcl2-server-1253424809.file.myqcloud.com/ServerConfig.json{CDN} → C:\Users\*************\AppData\Local\Temp\PCL\Cache\ServerConfig.json
+09:48:03.247 I <17 · L/PCL 配置更新> [ModNet] 发起网络请求（GET，https://pcl2-server-1253424809.file.myqcloud.com/minecraft/download.json{CDN}），最大超时 10000
+09:48:03.277 I <17 · L/PCL 配置更新> [ModNet] 发起网络请求（GET，https://pcl2-server-1253424809.file.myqcloud.com/notice.json{CDN}），最大超时 10000
+09:48:03.308 I <17 · L/PCL 配置更新> [ModLoader] 加载器 LoaderTask`2 PCL 配置更新 状态改变：Finished
+09:48:03.756 I <16 · L/DlClientList Mojang> [ModDownload] Mojang 官方源加载耗时：1148ms，可优先使用官方源
+09:48:03.756 I <16 · L/DlClientList Mojang> [ModLoader] 加载器 LoaderTask`2 DlClientList Mojang 状态改变：Finished
+09:48:05.106 I [MyIconButton] 按下图标按钮：BtnTitleClose
+09:48:05.121 I [FormMain] 收到关闭指令
+09:48:05.352 I [FormMain] 程序已退出，返回值：Success

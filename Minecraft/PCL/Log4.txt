@@ -1,0 +1,200 @@
+20:01:45.901 I <4 · Logger> [Logger] 开始轮转日志文件
+20:01:46.068 I [Application] 程序版本：正式版 2.13.1.1 (408)
+20:01:46.068 I [Application] 识别码：0806-E6D2-1980-1F7F
+20:01:46.068 I [Application] 程序路径：A:\Minecraft\Plain Craft Launcher 2.exe
+20:01:46.068 I [Application] 系统编码：gb2312 (936, GBK=True)
+20:01:46.068 I [Application] 管理员权限：False
+20:01:46.068 I [Application] 第一阶段加载用时：215 ms
+20:01:46.229 I [FormMain] 全新的 PCL，使用新的版本隔离默认值
+20:01:46.257 I [ModSecret] 刷新主题：0
+20:01:46.350 I [ModLoader] 加载器 LoaderTask`2 Minecraft Folder List 状态改变：Loading
+20:01:46.350 I [FormMain] 第二阶段加载用时：259 ms
+20:01:46.360 I <5 · L/Minecraft Folder List> [ModLoader] 加载器 LoaderTask`2 Minecraft Folder List 状态改变：Finished
+20:01:46.595 I [FormMain] 从设置更新背景图片与标题栏样式
+20:01:46.693 I [FormMain] 窗口已置顶，位置：(270, 155), 900 x 550
+20:01:46.703 I <7 · Animation> [ModAnimation] 动画线程开始
+20:01:46.772 I [FormMain] 第三阶段加载用时：190 ms
+20:01:46.792 I <11 · Version Check> [ModMinecraft] 当前选择的 Minecraft 文件夹：A:\Minecraft\.minecraft\
+20:01:46.923 I [ModLoader] 加载器 LoaderTask`2 Loader Skin Legacy 状态改变：Loading
+20:01:46.933 I <13 · L/Loader Skin Legacy> [ModLoader] 加载器 LoaderTask`2 Loader Skin Legacy 状态改变：Finished
+20:01:47.060 I [ModAnimation] 两个动画帧间隔 321 ms
+20:01:47.090 I [PageLaunchRight] 实例化：清空主页 UI，来源为空
+20:01:47.121 I [MySkin] 载入头像成功：Loader Skin Legacy
+20:01:47.131 I [ModMinecraft] 当前选择的 Minecraft 版本：A:\Minecraft\.minecraft\versions\26.2-Fabric 0.19.3\
+20:01:47.141 I [PageLaunchLeft] 启动按钮：Minecraft 版本：A:\Minecraft\.minecraft\versions\26.2-Fabric 0.19.3\
+20:01:47.149 I [ModLoader] 加载器 LoaderTask`2 登录 状态改变：Loading
+20:01:47.151 I <14 · L/登录> [ModLaunch] 登录加载已开始
+20:01:47.151 I <14 · L/登录> [ModLoader] 加载器 LoaderTask`2 Loader Login Legacy 状态改变：Loading
+20:01:47.272 I <15 · L/Loader Login Legacy> [ModLaunch] 登录方式：离线（lonlost）
+20:01:47.272 I <15 · L/Loader Login Legacy> [ModLoader] 加载器 LoaderTask`2 Loader Login Legacy 状态改变：Finished
+20:01:47.300 I <14 · L/登录> [ModLaunch] 登录加载已结束
+20:01:47.300 I <14 · L/登录> [ModLoader] 加载器 LoaderTask`2 登录 状态改变：Finished
+20:01:47.442 I [FormMain] DPI：96，系统版本：Microsoft Windows NT 10.0.19045.0，PCL 位置：A:\Minecraft\Plain Craft Launcher 2.exe
+20:01:47.577 I <9 · 初始化> [ModJava] 共有 2 个可用的 Java：
+20:01:47.577 I <9 · 初始化> [ModJava] - Java 25 (25.0.1.0)：C:\Users\*************\AppData\Roaming\.minecraft\runtime\java-runtime-epsilon\bin\
+20:01:47.577 I <9 · 初始化> [ModJava] - Java 21 (21.0.7.0)：C:\Users\*************\AppData\Roaming\.minecraft\runtime\java-runtime-delta\bin\
+20:01:47.700 I <9 · 初始化> [ModLoader] 加载器 LoaderTask`2 DlClientList Mojang 状态改变：Loading
+20:01:47.716 I <16 · L/DlClientList Mojang> [ModNet] 发起网络请求（GET，https://launchermeta.mojang.com/mc/game/version_manifest.json），最大超时 10000
+20:01:47.748 I <9 · 初始化> [ModLoader] 加载器 LoaderTask`2 PCL 配置更新 状态改变：Loading
+20:01:47.789 I <10 · TryClearTaskTemp> [ModMain] 开始清理任务缓存文件夹
+20:01:47.789 I <10 · TryClearTaskTemp> [ModMain] 已清理任务缓存文件夹
+20:01:47.797 I <18 · Telemetry> [ModMain] 匿名数据上报：启动
+20:01:47.827 I <17 · L/PCL 配置更新> [ModNet] 发起网络请求（GET，https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg{CDN}），最大超时 10000
+20:01:48.575 I <16 · L/DlClientList Mojang> [ModDownload] Mojang 官方源加载耗时：867ms，可优先使用官方源
+20:01:48.575 I <16 · L/DlClientList Mojang> [ModLoader] 加载器 LoaderTask`2 DlClientList Mojang 状态改变：Finished
+20:01:50.003 I [MyRadioButton] 按下单选按钮：设置
+20:01:50.171 W <17 · L/PCL 配置更新> [ModNet] 网络请求失败（GET，https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg{CDN}）：你的网络环境不佳，请稍后再试，或使用 VPN 改善网络环境。
+20:01:50.171 W <17 · L/PCL 配置更新> [ModNet] ——————— 详细错误信息 ———————
+20:01:50.171 W <17 · L/PCL 配置更新> [ModNet] An error occurred while sending the request.
+20:01:50.171 W <17 · L/PCL 配置更新> [ModNet]    at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw
+20:01:50.171 W <17 · L/PCL 配置更新> [ModNet]    at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification
+20:01:50.171 W <17 · L/PCL 配置更新> [ModNet]    at CacheCow.Client.CachingHandler.<SendAsync>d__46.MoveNext
+20:01:50.171 W <17 · L/PCL 配置更新> [ModNet] --- End of stack trace from previous location where exception was thrown ------ End of stack trace from previous location where exception was thrown ---
+20:01:50.171 W <17 · L/PCL 配置更新> [ModNet]    at MeloongCore.Extensions.TaskExtensions.Run[T]
+20:01:50.171 W <17 · L/PCL 配置更新> [ModNet]    at PCL.ModBase.GetResultWithTimeout[T]
+20:01:50.171 W <17 · L/PCL 配置更新> [ModNet]    at PCL.ModNet._Closure$__9-0._Lambda$__0
+20:01:50.171 W <17 · L/PCL 配置更新> [ModNet]    at ThrottleDebounce.Retrier.Attempt
+20:01:50.171 W <17 · L/PCL 配置更新> [ModNet]    at PCL.ModNet.SendRequest
+20:01:50.171 W <17 · L/PCL 配置更新> [ModNet]    at PCL.ModNet.NetRequestByClient
+20:01:50.171 W <17 · L/PCL 配置更新> [ModNet]    错误类型：System.Net.Http.HttpRequestException
+20:01:50.171 W <17 · L/PCL 配置更新> [ModNet] → Unable to connect to the remote server (Status=ConnectFailure)
+20:01:50.171 W <17 · L/PCL 配置更新> [ModNet]    at System.Net.HttpWebRequest.EndGetResponse
+20:01:50.171 W <17 · L/PCL 配置更新> [ModNet]    at System.Net.Http.HttpClientHandler.GetResponseCallback
+20:01:50.171 W <17 · L/PCL 配置更新> [ModNet]    错误类型：System.Net.WebException
+20:01:50.171 W <17 · L/PCL 配置更新> [ModNet] → No connection could be made because the target machine actively refused it 127.0.0.1:443 (SocketErrorCode=ConnectionRefused)
+20:01:50.171 W <17 · L/PCL 配置更新> [ModNet]    at System.Net.Sockets.Socket.InternalEndConnect
+20:01:50.171 W <17 · L/PCL 配置更新> [ModNet]    at System.Net.Sockets.Socket.EndConnect
+20:01:50.171 W <17 · L/PCL 配置更新> [ModNet]    at System.Net.ServicePoint.ConnectSocketInternal
+20:01:50.171 W <17 · L/PCL 配置更新> [ModNet]    错误类型：System.Net.Sockets.SocketException
+20:01:50.201 I [FormMain] 切换主要页面：Setup, -1
+20:01:50.220 I [ModAnimation] 两个动画帧间隔 211 ms
+20:01:50.688 I <17 · L/PCL 配置更新> [ModNet] 发起网络请求（GET，https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg{CDN}），最大超时 30000
+20:01:50.721 I <4 · Logger> [Logger] PclLogger 日志初始化结束
+20:01:51.874 I [MyListItem] 按下单选列表项：其他
+20:01:53.015 W <17 · L/PCL 配置更新> [ModNet] 网络请求失败（GET，https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg{CDN}）：你的网络环境不佳，请稍后再试，或使用 VPN 改善网络环境。
+20:01:53.015 W <17 · L/PCL 配置更新> [ModNet] ——————— 详细错误信息 ———————
+20:01:53.015 W <17 · L/PCL 配置更新> [ModNet] An error occurred while sending the request.
+20:01:53.015 W <17 · L/PCL 配置更新> [ModNet]    at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw
+20:01:53.015 W <17 · L/PCL 配置更新> [ModNet]    at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification
+20:01:53.015 W <17 · L/PCL 配置更新> [ModNet]    at CacheCow.Client.CachingHandler.<SendAsync>d__46.MoveNext
+20:01:53.015 W <17 · L/PCL 配置更新> [ModNet] --- End of stack trace from previous location where exception was thrown ------ End of stack trace from previous location where exception was thrown ---
+20:01:53.015 W <17 · L/PCL 配置更新> [ModNet]    at MeloongCore.Extensions.TaskExtensions.Run[T]
+20:01:53.015 W <17 · L/PCL 配置更新> [ModNet]    at PCL.ModBase.GetResultWithTimeout[T]
+20:01:53.015 W <17 · L/PCL 配置更新> [ModNet]    at PCL.ModNet._Closure$__9-0._Lambda$__0
+20:01:53.015 W <17 · L/PCL 配置更新> [ModNet]    at ThrottleDebounce.Retrier.Attempt
+20:01:53.015 W <17 · L/PCL 配置更新> [ModNet]    at PCL.ModNet.SendRequest
+20:01:53.015 W <17 · L/PCL 配置更新> [ModNet]    at PCL.ModNet.NetRequestByClient
+20:01:53.015 W <17 · L/PCL 配置更新> [ModNet]    错误类型：System.Net.Http.HttpRequestException
+20:01:53.015 W <17 · L/PCL 配置更新> [ModNet] → Unable to connect to the remote server (Status=ConnectFailure)
+20:01:53.015 W <17 · L/PCL 配置更新> [ModNet]    at System.Net.HttpWebRequest.EndGetResponse
+20:01:53.015 W <17 · L/PCL 配置更新> [ModNet]    at System.Net.Http.HttpClientHandler.GetResponseCallback
+20:01:53.015 W <17 · L/PCL 配置更新> [ModNet]    错误类型：System.Net.WebException
+20:01:53.015 W <17 · L/PCL 配置更新> [ModNet] → No connection could be made because the target machine actively refused it 127.0.0.1:443 (SocketErrorCode=ConnectionRefused)
+20:01:53.015 W <17 · L/PCL 配置更新> [ModNet]    at System.Net.Sockets.Socket.InternalEndConnect
+20:01:53.015 W <17 · L/PCL 配置更新> [ModNet]    at System.Net.Sockets.Socket.EndConnect
+20:01:53.015 W <17 · L/PCL 配置更新> [ModNet]    at System.Net.ServicePoint.ConnectSocketInternal
+20:01:53.015 W <17 · L/PCL 配置更新> [ModNet]    错误类型：System.Net.Sockets.SocketException
+20:01:53.015 W <17 · L/PCL 配置更新> [ModSecret] 获取 PCL 服务器状态失败：你的网络环境不佳，请稍后再试，或使用 VPN 改善网络环境。
+20:01:53.015 W <17 · L/PCL 配置更新> [ModSecret] ——————— 详细错误信息 ———————
+20:01:53.015 W <17 · L/PCL 配置更新> [ModSecret] An error occurred while sending the request.
+20:01:53.015 W <17 · L/PCL 配置更新> [ModSecret]    at PCL.ModNet.NetRequestByClientRetry
+20:01:53.015 W <17 · L/PCL 配置更新> [ModSecret]    at PCL.ModSecret.ServerSub
+20:01:53.015 W <17 · L/PCL 配置更新> [ModSecret]    错误类型：System.Net.Http.HttpRequestException
+20:01:53.015 W <17 · L/PCL 配置更新> [ModSecret] → Unable to connect to the remote server (Status=ConnectFailure)
+20:01:53.015 W <17 · L/PCL 配置更新> [ModSecret]    at System.Net.HttpWebRequest.EndGetResponse
+20:01:53.015 W <17 · L/PCL 配置更新> [ModSecret]    at System.Net.Http.HttpClientHandler.GetResponseCallback
+20:01:53.015 W <17 · L/PCL 配置更新> [ModSecret]    错误类型：System.Net.WebException
+20:01:53.015 W <17 · L/PCL 配置更新> [ModSecret] → No connection could be made because the target machine actively refused it 127.0.0.1:443 (SocketErrorCode=ConnectionRefused)
+20:01:53.015 W <17 · L/PCL 配置更新> [ModSecret]    at System.Net.Sockets.Socket.InternalEndConnect
+20:01:53.015 W <17 · L/PCL 配置更新> [ModSecret]    at System.Net.Sockets.Socket.EndConnect
+20:01:53.015 W <17 · L/PCL 配置更新> [ModSecret]    at System.Net.ServicePoint.ConnectSocketInternal
+20:01:53.015 W <17 · L/PCL 配置更新> [ModSecret]    错误类型：System.Net.Sockets.SocketException
+20:01:53.015 I <17 · L/PCL 配置更新> [ModLoader] 加载器 LoaderTask`2 PCL 配置更新 状态改变：Finished
+20:01:55.809 I [MyRadioButton] 按下单选按钮：下载
+20:01:55.897 I [ModLoader] 加载器 LoaderTask`2 DlClientList Main 状态改变：Loading
+20:01:55.897 I [FormMain] 切换主要页面：Download, -1
+20:01:55.912 I <31 · L/DlClientList Main> [ModLoader] 加载器 LoaderTask`2 DlClientList Mojang 状态改变：Loading
+20:01:55.912 I <30 · L/DlClientList Mojang> [ModNet] 发起网络请求（GET，https://launchermeta.mojang.com/mc/game/version_manifest.json），最大超时 10000
+20:01:55.963 I [ModLoader] 加载器 LoaderTask`2 DlOptiFineList Main 状态改变：Loading
+20:01:55.963 I [ModLoader] 加载器 LoaderTask`2 DlLiteLoaderList Main 状态改变：Loading
+20:01:55.963 I <30 · L/DlClientList Mojang> [ModLoader] 加载器 LoaderTask`2 DlClientList Mojang 状态改变：Finished
+20:01:55.978 I <28 · L/DlOptiFineList Main> [ModLoader] 加载器 LoaderTask`2 DlOptiFineList Official 状态改变：Loading
+20:01:55.978 I [ModLoader] 加载器 LoaderTask`2 DlFabricList Main 状态改变：Loading
+20:01:55.978 I <10 · L/DlLiteLoaderList Main> [ModLoader] 加载器 LoaderTask`2 DlLiteLoaderList Official 状态改变：Loading
+20:01:55.978 I [ModLoader] 加载器 LoaderTask`2 DlNeoForgeList Main 状态改变：Loading
+20:01:55.978 I <33 · L/DlLiteLoaderList Official> [ModNet] 发起网络请求（GET，https://dl.liteloader.com/versions/versions.json），最大超时 10000
+20:01:55.978 I <32 · L/DlFabricList Main> [ModLoader] 加载器 LoaderTask`2 DlFabricList Official 状态改变：Loading
+20:01:55.978 I <35 · L/DlFabricList Official> [ModNet] 发起网络请求（GET，https://meta.fabricmc.net/v2/versions），最大超时 10000
+20:01:55.993 I <18 · L/DlOptiFineList Official> [ModNet] 发起网络请求（GET，https://optifine.net/downloads），最大超时 10000
+20:01:56.003 I <34 · L/DlNeoForgeList Main> [ModLoader] 加载器 LoaderTask`2 DlNeoForgeList Official 状态改变：Loading
+20:01:56.004 I <40 · L/DlNeoForgeList Official> [ModNet] 发起网络请求（GET，https://maven.neoforged.net/api/maven/versions/releases/net/neoforged/neoforge），最大超时 10000
+20:01:56.007 I <41 · ForgeRecommendedRefresh> [ModDownloadLib] 刷新 Forge 推荐版本缓存开始
+20:01:56.007 I <41 · ForgeRecommendedRefresh> [ModNet] 发起网络请求（GET，https://bmclapi2.bangbang93.com/forge/promos），最大超时 10000
+20:01:56.128 I <31 · L/DlClientList Main> [ModLoader] 加载器 LoaderTask`2 DlClientList Main 状态改变：Finished
+20:01:56.582 I <41 · ForgeRecommendedRefresh> [ModDownloadLib] 刷新 Forge 推荐版本缓存成功
+20:01:56.594 I <35 · L/DlFabricList Official> [ModLoader] 加载器 LoaderTask`2 DlFabricList Official 状态改变：Finished
+20:01:56.612 I <32 · L/DlFabricList Main> [ModLoader] 加载器 LoaderTask`2 DlFabricList Main 状态改变：Finished
+20:01:56.623 I <33 · L/DlLiteLoaderList Official> [ModLoader] 加载器 LoaderTask`2 DlLiteLoaderList Official 状态改变：Finished
+20:01:56.633 I <10 · L/DlLiteLoaderList Main> [ModLoader] 加载器 LoaderTask`2 DlLiteLoaderList Main 状态改变：Finished
+20:01:56.681 I <40 · L/DlNeoForgeList Official> [ModNet] 发起网络请求（GET，https://maven.neoforged.net/api/maven/versions/releases/net/neoforged/forge），最大超时 10000
+20:01:57.065 I <40 · L/DlNeoForgeList Official> [ModLoader] 加载器 LoaderTask`2 DlNeoForgeList Official 状态改变：Finished
+20:01:57.068 I <34 · L/DlNeoForgeList Main> [ModLoader] 加载器 LoaderTask`2 DlNeoForgeList Main 状态改变：Finished
+20:01:57.461 I <18 · L/DlOptiFineList Official> [ModLoader] 加载器 LoaderTask`2 DlOptiFineList Official 状态改变：Finished
+20:01:57.501 I <28 · L/DlOptiFineList Main> [ModLoader] 加载器 LoaderTask`2 DlOptiFineList Main 状态改变：Finished
+20:01:58.416 I [MyCard] 展开卡片：正式版
+20:01:59.994 I [MyListItem] 按下单选列表项：Mod
+20:02:00.201 I [ModLoader] 加载器 LoaderTask`2 社区资源获取：Mod 状态改变：Loading
+20:02:00.252 I <45 · L/社区资源获取：Mod> [ResourceSearcher] 工程列表搜索原始文本：
+20:02:00.262 I <16 · CurseForge Search> [ResourceSearcher] 开始 CurseForge 搜索：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=6
+20:02:00.272 I <42 · Modrinth Search> [ResourceSearcher] 开始 Modrinth 搜索：https://api.modrinth.com/v2/search?limit=40&index=relevance&facets=[["project_type:mod"]]
+20:02:00.272 I <16 · CurseForge Search> [ModNet] 发起网络请求（GET，https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=6），最大超时 10000
+20:02:00.272 I <42 · Modrinth Search> [ModNet] 发起网络请求（GET，https://api.modrinth.com/v2/search?limit=40&index=relevance&facets=[["project_type:mod"]]），最大超时 20000
+20:02:00.907 I <16 · CurseForge Search> [ResourceSearcher] 从 CurseForge 搜索到了 40 个工程（总计已获取 40 个，共 10000 个）
+20:02:00.981 I <42 · Modrinth Search> [ResourceSearcher] 从 Modrinth 搜索到了 40 个工程（总计已获取 40 个，共 77528 个）
+20:02:01.340 I <45 · L/社区资源获取：Mod> [ResourceProject] 将 Balm (balm) 与 Balm (balm) 认定为相似工程
+20:02:01.350 I <45 · L/社区资源获取：Mod> [ResourceProject] 将 Mouse Tweaks (mouse-tweaks) 与 Mouse Tweaks (mouse-tweaks) 认定为相似工程
+20:02:01.350 I <45 · L/社区资源获取：Mod> [ResourceProject] 将 Konkrete (konkrete) 与 Konkrete (konkrete) 认定为相似工程
+20:02:01.350 I <45 · L/社区资源获取：Mod> [ResourceProject] 将 Puzzles Lib (puzzles-lib) 与 Puzzles Lib (puzzles-lib) 认定为相似工程
+20:02:01.350 I <45 · L/社区资源获取：Mod> [ResourceProject] 将 FancyMenu (fancymenu) 与 FancyMenu (fancymenu) 认定为相似工程
+20:02:01.350 I <45 · L/社区资源获取：Mod> [ResourceProject] 将 Collective (collective) 与 Collective (collective) 认定为相似工程
+20:02:01.360 I <45 · L/社区资源获取：Mod> [ResourceProject] 将 Jade 🔍 (jade) 与 Jade 🔍 (jade) 认定为相似工程
+20:02:01.370 I <45 · L/社区资源获取：Mod> [ResourceProject] 将 Xaero's World Map (xaeros-world-map) 与 Xaero's World Map (xaeros-world-map) 认定为相似工程
+20:02:01.370 I <45 · L/社区资源获取：Mod> [ResourceProject] 将 Xaero's Minimap (xaeros-minimap) 与 Xaero's Minimap (xaeros-minimap) 认定为相似工程
+20:02:01.370 I <45 · L/社区资源获取：Mod> [ResourceProject] 将 Fabric API (fabric-api) 与 Fabric API (fabric-api) 认定为相似工程
+20:02:01.378 I <45 · L/社区资源获取：Mod> [ResourceSearcher] 去重、筛选后累计新增结果 70 个（目前已有结果 0 个）
+20:02:01.409 I [PageResource] 开始可视化 Mod 列表，已储藏 70 个结果，当前在第 1 页
+20:02:01.459 I <45 · L/社区资源获取：Mod> [ModLoader] 加载器 LoaderTask`2 社区资源获取：Mod 状态改变：Finished
+20:02:01.599 I <43 · MyImage PicLoader 680#> [ModLoader] 加载器 LoaderDownload 文件下载 681# 状态改变：Loading
+20:02:01.618 I <39 · L/下载 683> [ModNet] 开始清理下载缓存
+20:02:01.618 I <39 · L/下载 683> [ModNet] 下载缓存已清理
+20:02:01.632 I <41 · MyImage PicLoader 685#> [ModLoader] 加载器 LoaderDownload 文件下载 686# 状态改变：Loading
+20:02:01.649 I <47 · MyImage PicLoader 690#> [ModLoader] 加载器 LoaderDownload 文件下载 691# 状态改变：Loading
+20:02:01.679 I <48 · 下载 688/687/694#> [ModNet] 1075565124065881469.png：开始，起始点 0，https://cdn.modrinth.com/data/NNAgCjsB/7873452d6cede4daed12da3d7d8c193ab88b4fd6_96.webp
+20:02:01.690 I <50 · 下载 683/682/697#> [ModNet] 9185166975447273299.png：开始，起始点 0，https://cdn.modrinth.com/data/9s6osm5g/ed8a2316cbb6f4fc5f510e8e13a59a85cbbbff4d_96.webp
+20:02:01.690 I <51 · MyImage PicLoader 699#> [ModLoader] 加载器 LoaderDownload 文件下载 701# 状态改变：Loading
+20:02:01.690 I <52 · 下载 693/692/700#> [ModNet] 3916600985087490655.png：开始，起始点 0，https://cdn.modrinth.com/data/YL57xq9U/18d0e7f076d3d6ed5bedd472b853909aac5da202_96.webp
+20:02:01.727 I [ModAnimation] 两个动画帧间隔 180 ms
+20:02:01.727 I <54 · 下载 703/702/704#> [ModNet] 5937853161247776333.png：开始，起始点 0，https://cdn.modrinth.com/data/AANobbMI/295862f4724dc3f78df3447ad6072b2dcd3ef0c9_96.webp
+20:02:02.111 I <54 · 下载 703/702/704#> [ModNet] 5937853161247776333.png：文件大小 4800（4.69 K）
+20:02:02.142 I <52 · 下载 693/692/700#> [ModNet] 3916600985087490655.png：文件大小 13472（13.2 K）
+20:02:02.142 I <50 · 下载 683/682/697#> [ModNet] 9185166975447273299.png：文件大小 11452（11.2 K）
+20:02:02.142 I <48 · 下载 688/687/694#> [ModNet] 1075565124065881469.png：文件大小 6754（6.6 K）
+20:02:02.153 I <54 · 下载 703/702/704#> [ModNet] 5937853161247776333.png：已完成
+20:02:02.155 I <54 · 下载 703/702/704#> [ModLoader] 加载器 LoaderDownload 文件下载 701# 状态改变：Finished
+20:02:02.160 I <48 · 下载 688/687/694#> [ModNet] 1075565124065881469.png：已完成
+20:02:02.160 I <48 · 下载 688/687/694#> [ModLoader] 加载器 LoaderDownload 文件下载 686# 状态改变：Finished
+20:02:02.160 I <50 · 下载 683/682/697#> [ModNet] 9185166975447273299.png：已完成
+20:02:02.160 I <50 · 下载 683/682/697#> [ModLoader] 加载器 LoaderDownload 文件下载 681# 状态改变：Finished
+20:02:02.160 I <52 · 下载 693/692/700#> [ModNet] 3916600985087490655.png：已完成
+20:02:02.160 I <52 · 下载 693/692/700#> [ModLoader] 加载器 LoaderDownload 文件下载 691# 状态改变：Finished
+20:02:02.939 I [MyRadioButton] 按下单选按钮：启动
+20:02:02.939 I [FormMain] 切换主要页面：Launch, -1
+20:07:25.609 I [ModAnimation] 两个动画帧间隔 153 ms
+20:13:45.190 I [FormMain] 收到置顶信息：1443706
+20:13:45.215 I [FormMain] 窗口已置顶，位置：(270, 155), 900 x 550
+20:13:47.116 I [MyRadioButton] 按下单选按钮：下载
+20:13:47.116 I [FormMain] 切换主要页面：Download, -1
+20:13:48.724 I [MyListItem] 按下单选列表项：原版游戏
+20:13:50.581 I [MyIconButton] 按下图标按钮：BtnTitleClose
+20:13:50.584 I [FormMain] 收到关闭指令
+20:13:50.811 I [FormMain] 程序已退出，返回值：Success

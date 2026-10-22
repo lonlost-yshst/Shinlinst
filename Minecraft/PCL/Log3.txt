@@ -1,0 +1,164 @@
+20:42:13.361 I <4 · Logger> [Logger] 开始轮转日志文件
+20:42:15.586 I <4 · Logger> [Logger] PclLogger 日志初始化结束
+20:42:16.439 I [Application] 程序版本：正式版 2.13.1.1 (408)
+20:42:16.439 I [Application] 识别码：0806-E6D2-1980-1F7F
+20:42:16.439 I [Application] 程序路径：A:\Minecraft\Plain Craft Launcher 2.exe
+20:42:16.439 I [Application] 系统编码：gb2312 (936, GBK=True)
+20:42:16.440 I [Application] 管理员权限：False
+20:42:16.441 I [Application] 第一阶段加载用时：3124 ms
+20:42:16.592 I [FormMain] 全新的 PCL，使用新的版本隔离默认值
+20:42:16.611 I [ModSecret] 刷新主题：0
+20:42:16.668 I [ModLoader] 加载器 LoaderTask`2 Minecraft Folder List 状态改变：Loading
+20:42:16.669 I [FormMain] 第二阶段加载用时：208 ms
+20:42:16.679 I <5 · L/Minecraft Folder List> [ModLoader] 加载器 LoaderTask`2 Minecraft Folder List 状态改变：Finished
+20:42:16.889 I [FormMain] 从设置更新背景图片与标题栏样式
+20:42:16.971 I [FormMain] 窗口已置顶，位置：(270, 155), 900 x 550
+20:42:16.980 I <7 · Animation> [ModAnimation] 动画线程开始
+20:42:16.981 I [FormMain] 第三阶段加载用时：103 ms
+20:42:17.006 I <11 · Version Check> [ModMinecraft] 当前选择的 Minecraft 文件夹：A:\Minecraft\.minecraft\
+20:42:17.127 I [ModLoader] 加载器 LoaderTask`2 Loader Skin Legacy 状态改变：Loading
+20:42:17.133 I <13 · L/Loader Skin Legacy> [ModLoader] 加载器 LoaderTask`2 Loader Skin Legacy 状态改变：Finished
+20:42:17.251 I [ModAnimation] 两个动画帧间隔 243 ms
+20:42:17.279 I [PageLaunchRight] 实例化：清空主页 UI，来源为空
+20:42:17.392 I [MySkin] 载入头像成功：Loader Skin Legacy
+20:42:17.401 I [ModMinecraft] 当前选择的 Minecraft 版本：A:\Minecraft\.minecraft\versions\26.2-Fabric 0.19.3\
+20:42:17.405 I <9 · 初始化> [ModJava] 共有 2 个可用的 Java：
+20:42:17.405 I <9 · 初始化> [ModJava] - Java 25 (25.0.1.0)：C:\Users\*************\AppData\Roaming\.minecraft\runtime\java-runtime-epsilon\bin\
+20:42:17.405 I <9 · 初始化> [ModJava] - Java 21 (21.0.7.0)：C:\Users\*************\AppData\Roaming\.minecraft\runtime\java-runtime-delta\bin\
+20:42:17.417 I [PageLaunchLeft] 启动按钮：Minecraft 版本：A:\Minecraft\.minecraft\versions\26.2-Fabric 0.19.3\
+20:42:17.424 I [ModLoader] 加载器 LoaderTask`2 登录 状态改变：Loading
+20:42:17.425 I [ModAnimation] 两个动画帧间隔 110 ms
+20:42:17.428 I <14 · L/登录> [ModLaunch] 登录加载已开始
+20:42:17.469 I <14 · L/登录> [ModLoader] 加载器 LoaderTask`2 Loader Login Legacy 状态改变：Loading
+20:42:17.472 I <15 · L/Loader Login Legacy> [ModLaunch] 登录方式：离线（lonlost）
+20:42:17.480 I <15 · L/Loader Login Legacy> [ModLoader] 加载器 LoaderTask`2 Loader Login Legacy 状态改变：Finished
+20:42:17.500 I <14 · L/登录> [ModLaunch] 登录加载已结束
+20:42:17.500 I <14 · L/登录> [ModLoader] 加载器 LoaderTask`2 登录 状态改变：Finished
+20:42:17.528 I <9 · 初始化> [ModLoader] 加载器 LoaderTask`2 DlClientList Mojang 状态改变：Loading
+20:42:17.544 I <16 · L/DlClientList Mojang> [ModNet] 发起网络请求（GET，https://launchermeta.mojang.com/mc/game/version_manifest.json），最大超时 10000
+20:42:17.545 I <9 · 初始化> [ModLoader] 加载器 LoaderTask`2 PCL 配置更新 状态改变：Loading
+20:42:17.549 I <18 · TryClearTaskTemp> [ModMain] 开始清理任务缓存文件夹
+20:42:17.551 I <18 · TryClearTaskTemp> [ModMain] 已清理任务缓存文件夹
+20:42:17.616 I <19 · Telemetry> [ModMain] 匿名数据上报：启动
+20:42:17.643 I <17 · L/PCL 配置更新> [ModNet] 发起网络请求（GET，https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg{CDN}），最大超时 10000
+20:42:17.709 I [FormMain] DPI：96，系统版本：Microsoft Windows NT 10.0.19045.0，PCL 位置：A:\Minecraft\Plain Craft Launcher 2.exe
+20:42:18.382 I <16 · L/DlClientList Mojang> [ModDownload] Mojang 官方源加载耗时：846ms，可优先使用官方源
+20:42:18.383 I <16 · L/DlClientList Mojang> [ModLoader] 加载器 LoaderTask`2 DlClientList Mojang 状态改变：Finished
+20:42:18.905 I [MyRadioButton] 按下单选按钮：设置
+20:42:19.043 I [FormMain] 切换主要页面：Setup, -1
+20:42:19.046 I [ModAnimation] 两个动画帧间隔 141 ms
+20:42:23.134 W <17 · L/PCL 配置更新> [ModNet] 网络请求失败（GET，https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg{CDN}）：你的网络环境不佳，请稍后再试，或使用 VPN 改善网络环境。
+20:42:23.134 W <17 · L/PCL 配置更新> [ModNet] ——————— 详细错误信息 ———————
+20:42:23.134 W <17 · L/PCL 配置更新> [ModNet] An error occurred while sending the request.
+20:42:23.134 W <17 · L/PCL 配置更新> [ModNet]    at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw
+20:42:23.134 W <17 · L/PCL 配置更新> [ModNet]    at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification
+20:42:23.134 W <17 · L/PCL 配置更新> [ModNet]    at CacheCow.Client.CachingHandler.<SendAsync>d__46.MoveNext
+20:42:23.134 W <17 · L/PCL 配置更新> [ModNet] --- End of stack trace from previous location where exception was thrown ------ End of stack trace from previous location where exception was thrown ---
+20:42:23.134 W <17 · L/PCL 配置更新> [ModNet]    at MeloongCore.Extensions.TaskExtensions.Run[T]
+20:42:23.134 W <17 · L/PCL 配置更新> [ModNet]    at PCL.ModBase.GetResultWithTimeout[T]
+20:42:23.134 W <17 · L/PCL 配置更新> [ModNet]    at PCL.ModNet._Closure$__9-0._Lambda$__0
+20:42:23.134 W <17 · L/PCL 配置更新> [ModNet]    at ThrottleDebounce.Retrier.Attempt
+20:42:23.134 W <17 · L/PCL 配置更新> [ModNet]    at PCL.ModNet.SendRequest
+20:42:23.134 W <17 · L/PCL 配置更新> [ModNet]    at PCL.ModNet.NetRequestByClient
+20:42:23.134 W <17 · L/PCL 配置更新> [ModNet]    错误类型：System.Net.Http.HttpRequestException
+20:42:23.134 W <17 · L/PCL 配置更新> [ModNet] → Unable to connect to the remote server (Status=ConnectFailure)
+20:42:23.134 W <17 · L/PCL 配置更新> [ModNet]    at System.Net.HttpWebRequest.EndGetResponse
+20:42:23.134 W <17 · L/PCL 配置更新> [ModNet]    at System.Net.Http.HttpClientHandler.GetResponseCallback
+20:42:23.134 W <17 · L/PCL 配置更新> [ModNet]    错误类型：System.Net.WebException
+20:42:23.134 W <17 · L/PCL 配置更新> [ModNet] → No connection could be made because the target machine actively refused it 127.0.0.1:443 (SocketErrorCode=ConnectionRefused)
+20:42:23.134 W <17 · L/PCL 配置更新> [ModNet]    at System.Net.Sockets.Socket.InternalEndConnect
+20:42:23.134 W <17 · L/PCL 配置更新> [ModNet]    at System.Net.Sockets.Socket.EndConnect
+20:42:23.134 W <17 · L/PCL 配置更新> [ModNet]    at System.Net.ServicePoint.ConnectSocketInternal
+20:42:23.134 W <17 · L/PCL 配置更新> [ModNet]    错误类型：System.Net.Sockets.SocketException
+20:42:23.643 I <17 · L/PCL 配置更新> [ModNet] 发起网络请求（GET，https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg{CDN}），最大超时 30000
+20:42:23.832 I [MyListItem] 按下单选列表项：其他
+20:42:25.662 W <17 · L/PCL 配置更新> [ModNet] 网络请求失败（GET，https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg{CDN}）：你的网络环境不佳，请稍后再试，或使用 VPN 改善网络环境。
+20:42:25.662 W <17 · L/PCL 配置更新> [ModNet] ——————— 详细错误信息 ———————
+20:42:25.662 W <17 · L/PCL 配置更新> [ModNet] An error occurred while sending the request.
+20:42:25.662 W <17 · L/PCL 配置更新> [ModNet]    at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw
+20:42:25.662 W <17 · L/PCL 配置更新> [ModNet]    at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification
+20:42:25.662 W <17 · L/PCL 配置更新> [ModNet]    at CacheCow.Client.CachingHandler.<SendAsync>d__46.MoveNext
+20:42:25.662 W <17 · L/PCL 配置更新> [ModNet] --- End of stack trace from previous location where exception was thrown ------ End of stack trace from previous location where exception was thrown ---
+20:42:25.662 W <17 · L/PCL 配置更新> [ModNet]    at MeloongCore.Extensions.TaskExtensions.Run[T]
+20:42:25.662 W <17 · L/PCL 配置更新> [ModNet]    at PCL.ModBase.GetResultWithTimeout[T]
+20:42:25.662 W <17 · L/PCL 配置更新> [ModNet]    at PCL.ModNet._Closure$__9-0._Lambda$__0
+20:42:25.662 W <17 · L/PCL 配置更新> [ModNet]    at ThrottleDebounce.Retrier.Attempt
+20:42:25.662 W <17 · L/PCL 配置更新> [ModNet]    at PCL.ModNet.SendRequest
+20:42:25.662 W <17 · L/PCL 配置更新> [ModNet]    at PCL.ModNet.NetRequestByClient
+20:42:25.662 W <17 · L/PCL 配置更新> [ModNet]    错误类型：System.Net.Http.HttpRequestException
+20:42:25.662 W <17 · L/PCL 配置更新> [ModNet] → Unable to connect to the remote server (Status=ConnectFailure)
+20:42:25.662 W <17 · L/PCL 配置更新> [ModNet]    at System.Net.HttpWebRequest.EndGetResponse
+20:42:25.662 W <17 · L/PCL 配置更新> [ModNet]    at System.Net.Http.HttpClientHandler.GetResponseCallback
+20:42:25.662 W <17 · L/PCL 配置更新> [ModNet]    错误类型：System.Net.WebException
+20:42:25.662 W <17 · L/PCL 配置更新> [ModNet] → No connection could be made because the target machine actively refused it 127.0.0.1:443 (SocketErrorCode=ConnectionRefused)
+20:42:25.662 W <17 · L/PCL 配置更新> [ModNet]    at System.Net.Sockets.Socket.InternalEndConnect
+20:42:25.662 W <17 · L/PCL 配置更新> [ModNet]    at System.Net.Sockets.Socket.EndConnect
+20:42:25.662 W <17 · L/PCL 配置更新> [ModNet]    at System.Net.ServicePoint.ConnectSocketInternal
+20:42:25.662 W <17 · L/PCL 配置更新> [ModNet]    错误类型：System.Net.Sockets.SocketException
+20:42:26.173 I <17 · L/PCL 配置更新> [ModNet] 发起网络请求（GET，https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg{CDN}），最大超时 4000
+20:42:27.890 I [MyCard] 展开卡片：调试选项
+20:42:28.218 W <17 · L/PCL 配置更新> [ModNet] 网络请求失败（GET，https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg{CDN}）：你的网络环境不佳，请稍后再试，或使用 VPN 改善网络环境。
+20:42:28.218 W <17 · L/PCL 配置更新> [ModNet] ——————— 详细错误信息 ———————
+20:42:28.218 W <17 · L/PCL 配置更新> [ModNet] An error occurred while sending the request.
+20:42:28.218 W <17 · L/PCL 配置更新> [ModNet]    at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw
+20:42:28.218 W <17 · L/PCL 配置更新> [ModNet]    at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification
+20:42:28.218 W <17 · L/PCL 配置更新> [ModNet]    at CacheCow.Client.CachingHandler.<SendAsync>d__46.MoveNext
+20:42:28.218 W <17 · L/PCL 配置更新> [ModNet] --- End of stack trace from previous location where exception was thrown ------ End of stack trace from previous location where exception was thrown ---
+20:42:28.218 W <17 · L/PCL 配置更新> [ModNet]    at MeloongCore.Extensions.TaskExtensions.Run[T]
+20:42:28.218 W <17 · L/PCL 配置更新> [ModNet]    at PCL.ModBase.GetResultWithTimeout[T]
+20:42:28.218 W <17 · L/PCL 配置更新> [ModNet]    at PCL.ModNet._Closure$__9-0._Lambda$__0
+20:42:28.218 W <17 · L/PCL 配置更新> [ModNet]    at ThrottleDebounce.Retrier.Attempt
+20:42:28.218 W <17 · L/PCL 配置更新> [ModNet]    at PCL.ModNet.SendRequest
+20:42:28.218 W <17 · L/PCL 配置更新> [ModNet]    at PCL.ModNet.NetRequestByClient
+20:42:28.218 W <17 · L/PCL 配置更新> [ModNet]    错误类型：System.Net.Http.HttpRequestException
+20:42:28.218 W <17 · L/PCL 配置更新> [ModNet] → Unable to connect to the remote server (Status=ConnectFailure)
+20:42:28.218 W <17 · L/PCL 配置更新> [ModNet]    at System.Net.HttpWebRequest.EndGetResponse
+20:42:28.218 W <17 · L/PCL 配置更新> [ModNet]    at System.Net.Http.HttpClientHandler.GetResponseCallback
+20:42:28.218 W <17 · L/PCL 配置更新> [ModNet]    错误类型：System.Net.WebException
+20:42:28.218 W <17 · L/PCL 配置更新> [ModNet] → No connection could be made because the target machine actively refused it 127.0.0.1:443 (SocketErrorCode=ConnectionRefused)
+20:42:28.218 W <17 · L/PCL 配置更新> [ModNet]    at System.Net.Sockets.Socket.InternalEndConnect
+20:42:28.218 W <17 · L/PCL 配置更新> [ModNet]    at System.Net.Sockets.Socket.EndConnect
+20:42:28.218 W <17 · L/PCL 配置更新> [ModNet]    at System.Net.ServicePoint.ConnectSocketInternal
+20:42:28.218 W <17 · L/PCL 配置更新> [ModNet]    错误类型：System.Net.Sockets.SocketException
+20:42:28.219 W <17 · L/PCL 配置更新> [ModSecret] 获取 PCL 服务器状态失败：你的网络环境不佳，请稍后再试，或使用 VPN 改善网络环境。
+20:42:28.219 W <17 · L/PCL 配置更新> [ModSecret] ——————— 详细错误信息 ———————
+20:42:28.219 W <17 · L/PCL 配置更新> [ModSecret] An error occurred while sending the request.
+20:42:28.219 W <17 · L/PCL 配置更新> [ModSecret]    at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw
+20:42:28.219 W <17 · L/PCL 配置更新> [ModSecret]    at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification
+20:42:28.219 W <17 · L/PCL 配置更新> [ModSecret]    at CacheCow.Client.CachingHandler.<SendAsync>d__46.MoveNext
+20:42:28.219 W <17 · L/PCL 配置更新> [ModSecret] --- End of stack trace from previous location where exception was thrown ------ End of stack trace from previous location where exception was thrown ---
+20:42:28.219 W <17 · L/PCL 配置更新> [ModSecret]    at MeloongCore.Extensions.TaskExtensions.Run[T]
+20:42:28.219 W <17 · L/PCL 配置更新> [ModSecret]    at PCL.ModBase.GetResultWithTimeout[T]
+20:42:28.219 W <17 · L/PCL 配置更新> [ModSecret]    at PCL.ModNet._Closure$__9-0._Lambda$__0
+20:42:28.219 W <17 · L/PCL 配置更新> [ModSecret]    at ThrottleDebounce.Retrier.Attempt
+20:42:28.219 W <17 · L/PCL 配置更新> [ModSecret]    at PCL.ModNet.SendRequest
+20:42:28.219 W <17 · L/PCL 配置更新> [ModSecret]    at PCL.ModNet.NetRequestByClient
+20:42:28.219 W <17 · L/PCL 配置更新> [ModSecret]    at PCL.ModNet.NetRequestByClientRetry
+20:42:28.219 W <17 · L/PCL 配置更新> [ModSecret]    at PCL.ModSecret.ServerSub
+20:42:28.219 W <17 · L/PCL 配置更新> [ModSecret]    错误类型：System.Net.Http.HttpRequestException
+20:42:28.219 W <17 · L/PCL 配置更新> [ModSecret] → Unable to connect to the remote server (Status=ConnectFailure)
+20:42:28.219 W <17 · L/PCL 配置更新> [ModSecret]    at System.Net.HttpWebRequest.EndGetResponse
+20:42:28.219 W <17 · L/PCL 配置更新> [ModSecret]    at System.Net.Http.HttpClientHandler.GetResponseCallback
+20:42:28.219 W <17 · L/PCL 配置更新> [ModSecret]    错误类型：System.Net.WebException
+20:42:28.219 W <17 · L/PCL 配置更新> [ModSecret] → No connection could be made because the target machine actively refused it 127.0.0.1:443 (SocketErrorCode=ConnectionRefused)
+20:42:28.219 W <17 · L/PCL 配置更新> [ModSecret]    at System.Net.Sockets.Socket.InternalEndConnect
+20:42:28.219 W <17 · L/PCL 配置更新> [ModSecret]    at System.Net.Sockets.Socket.EndConnect
+20:42:28.219 W <17 · L/PCL 配置更新> [ModSecret]    at System.Net.ServicePoint.ConnectSocketInternal
+20:42:28.219 W <17 · L/PCL 配置更新> [ModSecret]    错误类型：System.Net.Sockets.SocketException
+20:42:28.219 I <17 · L/PCL 配置更新> [ModLoader] 加载器 LoaderTask`2 PCL 配置更新 状态改变：Finished
+20:42:29.861 I [MyRadioButton] 按下单选按钮：更多
+20:42:29.897 I [ModLoader] 加载器 LoaderTask`2 Help Page 状态改变：Loading
+20:42:29.901 I [FormMain] 切换主要页面：Other, -1
+20:42:29.907 I <31 · L/Help Page> [ModBase] 将资源写入到文件：Help → C:\Users\*************\AppData\Local\Temp\PCL\Cache\Help.zip
+20:42:30.327 I <31 · L/Help Page> [ModMain] 已解压内置帮助文件，目前状态：True
+20:42:30.328 I <31 · L/Help Page> [ModMain] 已扫描 PCL 文件夹下的帮助文件，目前总计 0 条
+20:42:30.331 I <31 · L/Help Page> [ModMain] 已扫描缓存文件夹下的帮助文件，目前总计 40 条
+20:42:30.476 I <31 · L/Help Page> [ModLoader] 加载器 LoaderTask`2 Help Page 状态改变：Finished
+20:42:32.674 I [MyListItem] 按下单选列表项：百宝箱
+20:42:35.206 I [MyButton] 按下按钮：清理游戏垃圾
+20:42:35.432 I [MyMsgText] 普通弹窗：清理完成
+20:42:35.432 I [MyMsgText] 垃圾已经清理好啦！
+20:42:38.063 I [MyButton] 按下按钮：重启 PCL
+20:42:38.067 I <30 · Rubbish Clear> [ModMain] 普通弹框返回：2
+20:42:38.068 I <30 · Rubbish Clear> [ModBase] 启动进程：A:\Minecraft\Plain Craft Launcher 2.exe --wait
+20:42:38.252 I <30 · Rubbish Clear> [FormMain] 程序已退出，返回值：Success

@@ -1,0 +1,47 @@
+20:42:41.476 I [Application] 程序版本：正式版 2.13.1.1 (408)
+20:42:41.487 I [Application] 识别码：0806-E6D2-1980-1F7F
+20:42:41.487 I [Application] 程序路径：A:\Minecraft\Plain Craft Launcher 2.exe
+20:42:41.487 I [Application] 系统编码：gb2312 (936, GBK=True)
+20:42:41.487 I [Application] 管理员权限：False
+20:42:41.489 I [Application] 第一阶段加载用时：2253 ms
+20:42:41.631 I [FormMain] 全新的 PCL，使用新的版本隔离默认值
+20:42:41.659 I [ModSecret] 刷新主题：0
+20:42:41.738 I [ModLoader] 加载器 LoaderTask`2 Minecraft Folder List 状态改变：Loading
+20:42:41.739 I [FormMain] 第二阶段加载用时：229 ms
+20:42:41.752 I <5 · L/Minecraft Folder List> [ModLoader] 加载器 LoaderTask`2 Minecraft Folder List 状态改变：Finished
+20:42:41.915 I [FormMain] 从设置更新背景图片与标题栏样式
+20:42:41.996 I [FormMain] 窗口已置顶，位置：(270, 155), 900 x 550
+20:42:42.005 I <7 · Animation> [ModAnimation] 动画线程开始
+20:42:42.009 I [FormMain] 第三阶段加载用时：103 ms
+20:42:42.030 I <11 · Version Check> [ModMinecraft] 当前选择的 Minecraft 文件夹：A:\Minecraft\.minecraft\
+20:42:42.179 I [ModLoader] 加载器 LoaderTask`2 Loader Skin Legacy 状态改变：Loading
+20:42:42.186 I <13 · L/Loader Skin Legacy> [ModLoader] 加载器 LoaderTask`2 Loader Skin Legacy 状态改变：Finished
+20:42:42.322 I [ModAnimation] 两个动画帧间隔 275 ms
+20:42:42.352 I [PageLaunchRight] 实例化：清空主页 UI，来源为空
+20:42:42.377 I [MySkin] 载入头像成功：Loader Skin Legacy
+20:42:42.386 I [ModMinecraft] 当前选择的 Minecraft 版本：A:\Minecraft\.minecraft\versions\26.2-Fabric 0.19.3\
+20:42:42.393 I [PageLaunchLeft] 启动按钮：Minecraft 版本：A:\Minecraft\.minecraft\versions\26.2-Fabric 0.19.3\
+20:42:42.402 I [ModLoader] 加载器 LoaderTask`2 登录 状态改变：Loading
+20:42:42.622 I <14 · L/登录> [ModLaunch] 登录加载已开始
+20:42:42.625 I <14 · L/登录> [ModLoader] 加载器 LoaderTask`2 Loader Login Legacy 状态改变：Loading
+20:42:42.627 I <15 · L/Loader Login Legacy> [ModLaunch] 登录方式：离线（lonlost）
+20:42:42.634 I <15 · L/Loader Login Legacy> [ModLoader] 加载器 LoaderTask`2 Loader Login Legacy 状态改变：Finished
+20:42:42.642 I <14 · L/登录> [ModLaunch] 登录加载已结束
+20:42:42.642 I <14 · L/登录> [ModLoader] 加载器 LoaderTask`2 登录 状态改变：Finished
+20:42:42.702 I <9 · 初始化> [ModJava] 共有 2 个可用的 Java：
+20:42:42.702 I <9 · 初始化> [ModJava] - Java 25 (25.0.1.0)：C:\Users\*************\AppData\Roaming\.minecraft\runtime\java-runtime-epsilon\bin\
+20:42:42.702 I <9 · 初始化> [ModJava] - Java 21 (21.0.7.0)：C:\Users\*************\AppData\Roaming\.minecraft\runtime\java-runtime-delta\bin\
+20:42:42.722 I [FormMain] DPI：96，系统版本：Microsoft Windows NT 10.0.19045.0，PCL 位置：A:\Minecraft\Plain Craft Launcher 2.exe
+20:42:42.818 I <9 · 初始化> [ModLoader] 加载器 LoaderTask`2 DlClientList Mojang 状态改变：Loading
+20:42:42.823 I <9 · 初始化> [ModLoader] 加载器 LoaderTask`2 PCL 配置更新 状态改变：Loading
+20:42:42.826 I <18 · TryClearTaskTemp> [ModMain] 开始清理任务缓存文件夹
+20:42:42.827 I <16 · L/DlClientList Mojang> [ModNet] 发起网络请求（GET，https://launchermeta.mojang.com/mc/game/version_manifest.json），最大超时 10000
+20:42:42.827 I <18 · TryClearTaskTemp> [ModMain] 已清理任务缓存文件夹
+20:42:42.830 I <19 · Telemetry> [ModMain] 匿名数据上报：启动
+20:42:42.844 I <17 · L/PCL 配置更新> [ModNet] 发起网络请求（GET，https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg{CDN}），最大超时 10000
+20:42:43.239 I <16 · L/DlClientList Mojang> [ModDownload] Mojang 官方源加载耗时：415ms，可优先使用官方源
+20:42:43.241 I <16 · L/DlClientList Mojang> [ModLoader] 加载器 LoaderTask`2 DlClientList Mojang 状态改变：Finished
+20:42:43.818 I <4 · Logger> [Logger] PclLogger 日志初始化结束
+20:42:44.701 I [MyIconButton] 按下图标按钮：BtnTitleClose
+20:42:44.709 I [FormMain] 收到关闭指令
+20:42:44.939 I [FormMain] 程序已退出，返回值：Success

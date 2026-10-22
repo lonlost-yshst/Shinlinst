@@ -1,0 +1,259 @@
+09:48:54.211 I [Application] 程序版本：正式版 2.13.1.1 (408)
+09:48:54.223 I [Application] 识别码：0806-E6D2-1980-1F7F
+09:48:54.223 I [Application] 程序路径：A:\Minecraft\Plain Craft Launcher 2.exe
+09:48:54.223 I [Application] 系统编码：gb2312 (936, GBK=True)
+09:48:54.224 I [Application] 管理员权限：False
+09:48:54.225 I [Application] 第一阶段加载用时：2202 ms
+09:48:54.328 I [FormMain] 全新的 PCL，使用新的版本隔离默认值
+09:48:54.344 I [ModSecret] 刷新主题：0
+09:48:54.404 I [ModLoader] 加载器 LoaderTask`2 Minecraft Folder List 状态改变：Loading
+09:48:54.405 I [FormMain] 第二阶段加载用时：164 ms
+09:48:54.416 I <5 · L/Minecraft Folder List> [ModLoader] 加载器 LoaderTask`2 Minecraft Folder List 状态改变：Finished
+09:48:54.564 I [FormMain] 从设置更新背景图片与标题栏样式
+09:48:54.633 I [FormMain] 窗口已置顶，位置：(270, 155), 900 x 550
+09:48:54.644 I <7 · Animation> [ModAnimation] 动画线程开始
+09:48:54.646 I [FormMain] 第三阶段加载用时：88 ms
+09:48:54.668 I <11 · Version Check> [ModMinecraft] 当前选择的 Minecraft 文件夹：A:\Minecraft\.minecraft\
+09:48:54.764 I [ModLoader] 加载器 LoaderTask`2 Loader Skin Legacy 状态改变：Loading
+09:48:54.771 I <13 · L/Loader Skin Legacy> [ModLoader] 加载器 LoaderTask`2 Loader Skin Legacy 状态改变：Finished
+09:48:54.881 I [ModAnimation] 两个动画帧间隔 211 ms
+09:48:54.907 I [PageLaunchRight] 实例化：清空主页 UI，来源为空
+09:48:54.932 I [MySkin] 载入头像成功：Loader Skin Legacy
+09:48:55.065 I <9 · 初始化> [ModJava] 共有 2 个可用的 Java：
+09:48:55.065 I <9 · 初始化> [ModJava] - Java 25 (25.0.1.0)：C:\Users\*************\AppData\Roaming\.minecraft\runtime\java-runtime-epsilon\bin\
+09:48:55.065 I <9 · 初始化> [ModJava] - Java 21 (21.0.7.0)：C:\Users\*************\AppData\Roaming\.minecraft\runtime\java-runtime-delta\bin\
+09:48:55.191 I <9 · 初始化> [ModLoader] 加载器 LoaderTask`2 DlClientList Mojang 状态改变：Loading
+09:48:55.197 I <9 · 初始化> [ModLoader] 加载器 LoaderTask`2 PCL 配置更新 状态改变：Loading
+09:48:55.200 I <16 · TryClearTaskTemp> [ModMain] 开始清理任务缓存文件夹
+09:48:55.203 I <16 · TryClearTaskTemp> [ModMain] 已清理任务缓存文件夹
+09:48:55.203 I <14 · L/DlClientList Mojang> [ModNet] 发起网络请求（GET，https://launchermeta.mojang.com/mc/game/version_manifest.json），最大超时 10000
+09:48:55.207 I <17 · Telemetry> [ModMain] 匿名数据上报：启动
+09:48:55.233 I <15 · L/PCL 配置更新> [ModSecret] 已读取本地缓存的配置：38
+09:48:55.233 I <15 · L/PCL 配置更新> [ModNet] 发起网络请求（GET，https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg{CDN}），最大超时 10000
+09:48:55.363 I [FormMain] DPI：96，系统版本：Microsoft Windows NT 10.0.19045.0，PCL 位置：A:\Minecraft\Plain Craft Launcher 2.exe
+09:48:55.600 I <15 · L/PCL 配置更新> [ModSecret] 本地公告编号：225，服务器公告：225|412|408|6|38，无需更新
+09:48:55.602 I <15 · L/PCL 配置更新> [ModSecret] 复制自身为最新正式版：版本号升高到 408
+09:48:55.614 I <15 · L/PCL 配置更新> [ModLoader] 加载器 LoaderTask`2 PCL 配置更新 状态改变：Finished
+09:48:56.057 I <14 · L/DlClientList Mojang> [ModDownload] Mojang 官方源加载耗时：858ms，可优先使用官方源
+09:48:56.061 I <14 · L/DlClientList Mojang> [ModLoader] 加载器 LoaderTask`2 DlClientList Mojang 状态改变：Finished
+09:48:58.023 I [MyRadioButton] 按下单选按钮：下载
+09:48:58.127 I [ModLoader] 加载器 LoaderTask`2 DlClientList Main 状态改变：Loading
+09:48:58.141 I [FormMain] 切换主要页面：Download, -1
+09:48:58.143 I <17 · L/DlClientList Main> [ModLoader] 加载器 LoaderTask`2 DlClientList Mojang 状态改变：Loading
+09:48:58.144 I <16 · L/DlClientList Mojang> [ModNet] 发起网络请求（GET，https://launchermeta.mojang.com/mc/game/version_manifest.json），最大超时 10000
+09:48:58.152 I [ModAnimation] 两个动画帧间隔 126 ms
+09:48:58.175 I [ModLoader] 加载器 LoaderTask`2 DlOptiFineList Main 状态改变：Loading
+09:48:58.178 I [ModLoader] 加载器 LoaderTask`2 DlLiteLoaderList Main 状态改变：Loading
+09:48:58.182 I [ModLoader] 加载器 LoaderTask`2 DlFabricList Main 状态改变：Loading
+09:48:58.185 I <12 · L/DlOptiFineList Main> [ModLoader] 加载器 LoaderTask`2 DlOptiFineList Official 状态改变：Loading
+09:48:58.190 I [ModLoader] 加载器 LoaderTask`2 DlNeoForgeList Main 状态改变：Loading
+09:48:58.192 I <16 · L/DlClientList Mojang> [ModLoader] 加载器 LoaderTask`2 DlClientList Mojang 状态改变：Finished
+09:48:58.196 I <28 · L/DlFabricList Main> [ModLoader] 加载器 LoaderTask`2 DlFabricList Official 状态改变：Loading
+09:48:58.197 I <10 · L/DlLiteLoaderList Main> [ModLoader] 加载器 LoaderTask`2 DlLiteLoaderList Official 状态改变：Loading
+09:48:58.198 I <31 · L/DlFabricList Official> [ModNet] 发起网络请求（GET，https://meta.fabricmc.net/v2/versions），最大超时 10000
+09:48:58.200 I <30 · L/DlNeoForgeList Main> [ModLoader] 加载器 LoaderTask`2 DlNeoForgeList Official 状态改变：Loading
+09:48:58.204 I <29 · L/DlOptiFineList Official> [ModNet] 发起网络请求（GET，https://optifine.net/downloads），最大超时 10000
+09:48:58.206 I <32 · L/DlLiteLoaderList Official> [ModNet] 发起网络请求（GET，https://dl.liteloader.com/versions/versions.json），最大超时 10000
+09:48:58.207 I <34 · L/DlNeoForgeList Official> [ModNet] 发起网络请求（GET，https://maven.neoforged.net/api/maven/versions/releases/net/neoforged/neoforge），最大超时 10000
+09:48:58.220 I <38 · ForgeRecommendedRefresh> [ModDownloadLib] 刷新 Forge 推荐版本缓存开始
+09:48:58.220 I <38 · ForgeRecommendedRefresh> [ModNet] 发起网络请求（GET，https://bmclapi2.bangbang93.com/forge/promos），最大超时 10000
+09:48:58.306 I <17 · L/DlClientList Main> [ModLoader] 加载器 LoaderTask`2 DlClientList Main 状态改变：Finished
+09:48:58.597 I <38 · ForgeRecommendedRefresh> [ModDownloadLib] 刷新 Forge 推荐版本缓存成功
+09:48:58.762 I <4 · Logger> [Logger] PclLogger 日志初始化结束
+09:48:58.809 I [ModMinecraft] 当前选择的 Minecraft 版本：A:\Minecraft\.minecraft\versions\26.2-Fabric 0.19.3\
+09:48:58.848 I [ModLoader] 加载器 LoaderTask`2 登录 状态改变：Loading
+09:48:58.854 I <38 · L/登录> [ModLaunch] 登录加载已开始
+09:48:58.856 I <38 · L/登录> [ModLoader] 加载器 LoaderTask`2 Loader Login Legacy 状态改变：Loading
+09:48:58.858 I <14 · L/Loader Login Legacy> [ModLaunch] 登录方式：离线（lonlost）
+09:48:58.862 I <14 · L/Loader Login Legacy> [ModLoader] 加载器 LoaderTask`2 Loader Login Legacy 状态改变：Finished
+09:48:58.879 I <31 · L/DlFabricList Official> [ModLoader] 加载器 LoaderTask`2 DlFabricList Official 状态改变：Finished
+09:48:58.882 I <38 · L/登录> [ModLaunch] 登录加载已结束
+09:48:58.882 I <38 · L/登录> [ModLoader] 加载器 LoaderTask`2 登录 状态改变：Finished
+09:48:58.883 I <28 · L/DlFabricList Main> [ModLoader] 加载器 LoaderTask`2 DlFabricList Main 状态改变：Finished
+09:48:58.978 I <32 · L/DlLiteLoaderList Official> [ModLoader] 加载器 LoaderTask`2 DlLiteLoaderList Official 状态改变：Finished
+09:48:58.991 I <10 · L/DlLiteLoaderList Main> [ModLoader] 加载器 LoaderTask`2 DlLiteLoaderList Main 状态改变：Finished
+09:48:59.080 I [MyRadioButton] 按下单选按钮：启动
+09:48:59.080 I [FormMain] 切换主要页面：Launch, -1
+09:48:59.199 I [PageLaunchLeft] 启动按钮：Minecraft 版本：A:\Minecraft\.minecraft\versions\26.2-Fabric 0.19.3\
+09:48:59.916 I <29 · L/DlOptiFineList Official> [ModLoader] 加载器 LoaderTask`2 DlOptiFineList Official 状态改变：Finished
+09:48:59.920 I <12 · L/DlOptiFineList Main> [ModLoader] 加载器 LoaderTask`2 DlOptiFineList Main 状态改变：Finished
+09:49:00.160 I <34 · L/DlNeoForgeList Official> [ModNet] 发起网络请求（GET，https://maven.neoforged.net/api/maven/versions/releases/net/neoforged/forge），最大超时 10000
+09:49:00.318 I [MyButton] 按下按钮：启动游戏
+09:49:00.323 I [ModLoader] 加载器 LoaderTask`2 Loader Launch 状态改变：Loading
+09:49:00.375 I <39 · L/Loader Launch> [ModLaunch] 预检测已通过
+09:49:00.380 I <39 · L/Loader Launch> [ModDownload] 开始后台检查资源文件索引
+09:49:00.381 I <39 · L/Loader Launch> [ModLoader] 加载器 LoaderCombo`1 后台更新资源文件索引 状态改变：Loading
+09:49:00.384 I <39 · L/Loader Launch> [ModLoader] 加载器 LoaderTask`2 后台分析资源文件索引地址 状态改变：Loading
+09:49:00.385 I <39 · L/Loader Launch> [ModLoader] 加载器 LoaderTask`2 登录 状态改变：Waiting
+09:49:00.385 I <39 · L/Loader Launch> [ModLoader] 加载器 LoaderCombo`1 Minecraft 启动 状态改变：Loading
+09:49:00.385 I <39 · L/Loader Launch> [ModLoader] 加载器 LoaderTask`2 获取 Java 状态改变：Loading
+09:49:00.387 I <39 · L/Loader Launch> [ModLoader] 加载器 LoaderTask`2 登录 状态改变：Loading
+09:49:00.387 I <39 · L/Loader Launch> [ModLoader] 加载器 LoaderCombo`1 补全文件 状态改变：Loading
+09:49:00.387 I <48 · L/登录> [ModLaunch] 登录加载已开始
+09:49:00.388 I <48 · L/登录> [ModLaunch] 登录加载已结束
+09:49:00.388 I <48 · L/登录> [ModLoader] 加载器 LoaderTask`2 登录 状态改变：Finished
+09:49:00.389 I <39 · L/Loader Launch> [ModLoader] 加载器 LoaderCombo`1 下载支持库文件（主加载器） 状态改变：Loading
+09:49:00.389 I <39 · L/Loader Launch> [ModLoader] 加载器 LoaderTask`2 分析缺失支持库文件 状态改变：Loading
+09:49:00.390 I <39 · L/Loader Launch> [ModLoader] 加载器 LoaderCombo`1 下载资源文件（主加载器） 状态改变：Loading
+09:49:00.390 I <39 · L/Loader Launch> [ModLoader] 加载器 LoaderTask`2 分析资源文件索引地址 状态改变：Loading
+09:49:00.390 I <46 · L/后台分析资源文件索引地址> [ModDownload] 版本 26.2-Fabric 0.19.3 对应的资源文件索引为 32
+09:49:00.392 I <50 · L/分析资源文件索引地址> [ModDownload] 版本 26.2-Fabric 0.19.3 对应的资源文件索引为 32
+09:49:00.393 I <39 · L/Loader Launch> [ModLoader] 加载器 LoaderTask`2 内存优化 状态改变：Loading
+09:49:00.394 I <46 · L/后台分析资源文件索引地址> [ModLoader] 加载器 LoaderTask`2 后台分析资源文件索引地址 状态改变：Finished
+09:49:00.394 I <51 · L/内存优化> [ModLaunch] 内存优化开始
+09:49:00.399 I <52 · Launch Memory Optimize> [PageOtherTest] 没有管理员权限，将以命令行方式进行内存优化
+09:49:00.400 I <39 · L/Loader Launch> [ModLoader] Minecraft 启动 已加入任务列表
+09:49:00.402 I <46 · L/后台分析资源文件索引地址> [ModLoader] 加载器 LoaderDownload 后台下载资源文件索引 状态改变：Loading
+09:49:00.410 I <52 · Launch Memory Optimize> [ModBase] 启动进程：A:\Minecraft\Plain Craft Launcher 2.exe --memory
+09:49:00.426 I <53 · L/下载 232> [ModNet] 开始清理下载缓存
+09:49:00.426 I <53 · L/下载 232> [ModNet] 下载缓存已清理
+09:49:00.493 I <47 · L/获取 Java> [ModJava] Mojang 要求至少使用 Java 25
+09:49:00.493 I <47 · L/获取 Java> [ModJava] Mojang 要求至少使用 Java 25
+09:49:00.494 I <47 · L/获取 Java> [ModJava] 自动选择以下范围的 Java：[25.0, +∞) java-runtime-epsilon
+09:49:00.517 I <58 · 下载 232/244/248#> [ModNet] 32.json：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/f8a4b0071155bcfad32d83a39d78b6da48b7a6e6/32.json
+09:49:00.601 I <47 · L/获取 Java> [TaskUtils] 运行程序，并返回其输出：C:\Users\*************\AppData\Roaming\.minecraft\runtime\java-runtime-epsilon\bin\java.exe -XshowSettings:properties -version，最长可等待 15000ms
+09:49:00.796 I <34 · L/DlNeoForgeList Official> [ModLoader] 加载器 LoaderTask`2 DlNeoForgeList Official 状态改变：Finished
+09:49:00.812 I <30 · L/DlNeoForgeList Main> [ModLoader] 加载器 LoaderTask`2 DlNeoForgeList Main 状态改变：Finished
+09:49:01.094 I <50 · L/分析资源文件索引地址> [ModLoader] 加载器 LoaderTask`2 分析资源文件索引地址 状态改变：Finished
+09:49:01.094 I <50 · L/分析资源文件索引地址> [ModLoader] 加载器 LoaderDownload 下载资源文件索引 状态改变：Loading
+09:49:01.098 I <43 · L/下载 227> [ModLoader] 加载器 LoaderDownload 下载资源文件索引 状态改变：Finished
+09:49:01.099 I <43 · L/下载 227> [ModLoader] 加载器 LoaderTask`2 获取资源文件列表 状态改变：Loading
+09:49:01.139 I <58 · 下载 232/244/248#> [ModNet] 32.json：文件大小未知
+09:49:01.432 I <57 · NetManager StatRefresher> [ModNet] 速度下限已提升到 415 K
+09:49:01.527 I <57 · NetManager StatRefresher> [ModNet] 速度下限已提升到 506 K
+09:49:01.535 I <58 · 下载 232/244/248#> [ModNet] 32.json：已完成
+09:49:01.536 I <58 · 下载 232/244/248#> [ModLoader] 加载器 LoaderDownload 后台下载资源文件索引 状态改变：Finished
+09:49:01.536 I <58 · 下载 232/244/248#> [ModLoader] 加载器 LoaderCombo`1 后台更新资源文件索引 状态改变：Finished
+09:49:01.576 I <Async> [Java] 检查 Java 成功：Java 25 (25.0.1.0)：C:\Users\*************\AppData\Roaming\.minecraft\runtime\java-runtime-epsilon\bin\
+09:49:01.577 I <47 · L/获取 Java> [ModJava] 已选定 Java：Java 25 (25.0.1.0)：C:\Users\*************\AppData\Roaming\.minecraft\runtime\java-runtime-epsilon\bin\
+09:49:01.578 I <47 · L/获取 Java> [ModLaunch] 选择的 Java：Java 25 (25.0.1.0)：C:\Users\*************\AppData\Roaming\.minecraft\runtime\java-runtime-epsilon\bin\
+09:49:01.578 I <47 · L/获取 Java> [ModLoader] 加载器 LoaderTask`2 获取 Java 状态改变：Finished
+09:49:15.479 I <52 · Launch Memory Optimize> [PageOtherTest] 内存优化完成，可用内存改变量：6 G，大致剩余内存：14.2 G
+09:49:15.620 I <51 · L/内存优化> [ModLoader] 加载器 LoaderTask`2 内存优化 状态改变：Finished
+09:49:16.721 I <49 · L/分析缺失支持库文件> [ModMinecraft] 获取支持库列表：26.2-Fabric 0.19.3
+09:49:16.856 I <49 · L/分析缺失支持库文件> [ModLoader] 加载器 LoaderTask`2 分析缺失支持库文件 状态改变：Finished
+09:49:16.858 I <49 · L/分析缺失支持库文件> [ModLoader] 加载器 LoaderDownload 下载支持库文件 状态改变：Loading
+09:49:27.464 I <43 · 下载 文件复制 224/520> [ModLoader] 加载器 LoaderDownload 下载支持库文件 状态改变：Finished
+09:49:27.465 I <43 · 下载 文件复制 224/520> [ModLoader] 加载器 LoaderCombo`1 下载支持库文件（主加载器） 状态改变：Finished
+09:49:28.916 I <40 · L/获取资源文件列表> [ModLoader] 加载器 LoaderTask`2 获取资源文件列表 状态改变：Finished
+09:49:28.916 I <40 · L/获取资源文件列表> [ModLoader] 加载器 LoaderDownload 下载资源文件 状态改变：Loading
+09:49:28.917 I <43 · L/下载 229> [ModLoader] 加载器 LoaderDownload 下载资源文件 状态改变：Finished
+09:49:28.917 I <43 · L/下载 229> [ModLoader] 加载器 LoaderCombo`1 下载资源文件（主加载器） 状态改变：Finished
+09:49:28.918 I <43 · L/下载 229> [ModLoader] 加载器 LoaderCombo`1 补全文件 状态改变：Finished
+09:49:28.932 I <43 · L/下载 229> [ModLoader] 加载器 LoaderTask`2 获取启动参数 状态改变：Loading
+09:49:28.945 I <42 · L/获取启动参数> [ModLaunch] 参数获取开始
+09:49:28.973 I <42 · L/获取启动参数> [ModLaunch] 新版 JVM 参数：从版本 JSON 获取（26.2-Fabric 0.19.3）
+09:49:28.993 I <42 · L/获取启动参数> [ModLaunch] 使用 JLW：False
+09:49:28.993 I <42 · L/获取启动参数> [ModMinecraft] 获取支持库列表：26.2-Fabric 0.19.3
+09:49:28.994 I <42 · L/获取启动参数> [ModLaunch] 使用 LUA：False
+09:49:28.994 I <42 · L/获取启动参数> [ModLaunch] 当前剩余内存：14G
+09:49:29.017 I <42 · L/获取启动参数> [ModLaunch] GC 设置：4，选取 G1GC，Java 版本：25
+09:49:29.019 I <42 · L/获取启动参数> [ModLaunch] 使用编码：utf-8
+09:49:29.028 I <42 · L/获取启动参数> [ModLaunch] 新版游戏参数：从版本 JSON 获取（26.2-Fabric 0.19.3）
+09:49:29.029 I <42 · L/获取启动参数> [ModLaunch] =================== 启动参数开始 ===================
+09:49:29.046 I <42 · L/获取启动参数> [ModMinecraft] 获取支持库列表：26.2-Fabric 0.19.3
+09:49:29.062 I <42 · L/获取启动参数> [ModLaunch] -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump
+09:49:29.062 I <42 · L/获取启动参数> [ModLaunch] --sun-misc-unsafe-memory-access=allow
+09:49:29.062 I <42 · L/获取启动参数> [ModLaunch] --enable-native-access=ALL-UNNAMED
+09:49:29.062 I <42 · L/获取启动参数> [ModLaunch] "-Djava.library.path=A:\Minecraft\.minecraft\versions\26.2-Fabric 0.19.3\26.2-Fabric 0.19.3-natives/java"
+09:49:29.062 I <42 · L/获取启动参数> [ModLaunch] "-Djna.tmpdir=A:\Minecraft\.minecraft\versions\26.2-Fabric 0.19.3\26.2-Fabric 0.19.3-natives/jna"
+09:49:29.062 I <42 · L/获取启动参数> [ModLaunch] "-Dorg.lwjgl.system.SharedLibraryExtractPath=A:\Minecraft\.minecraft\versions\26.2-Fabric 0.19.3\26.2-Fabric 0.19.3-natives/lwjgl"
+09:49:29.062 I <42 · L/获取启动参数> [ModLaunch] "-Dio.netty.native.workdir=A:\Minecraft\.minecraft\versions\26.2-Fabric 0.19.3\26.2-Fabric 0.19.3-natives/netty"
+09:49:29.062 I <42 · L/获取启动参数> [ModLaunch] -Dminecraft.launcher.brand=PCL
+09:49:29.062 I <42 · L/获取启动参数> [ModLaunch] -Dminecraft.launcher.version=408
+09:49:29.062 I <42 · L/获取启动参数> [ModLaunch] -cp
+09:49:29.062 I <42 · L/获取启动参数> [ModLaunch] "A:\Minecraft\.minecraft\libraries\at\yawk\lz4\lz4-java\1.10.1\lz4-java-1.10.1.jar;A:\Minecraft\.minecraft\libraries\com\azure\azure-json\1.4.0\azure-json-1.4.0.jar;A:\Minecraft\.minecraft\libraries\com\github\oshi\oshi-core\6.9.0\oshi-core-6.9.0.jar;A:\Minecraft\.minecraft\libraries\com\google\code\gson\gson\2.14.0\gson-2.14.0.jar;A:\Minecraft\.minecraft\libraries\com\google\guava\failureaccess\1.0.3\failureaccess-1.0.3.jar;A:\Minecraft\.minecraft\libraries\com\google\guava\guava\33.6.0-jre\guava-33.6.0-jre.jar;A:\Minecraft\.minecraft\libraries\com\ibm\icu\icu4j\78.3\icu4j-78.3.jar;A:\Minecraft\.minecraft\libraries\com\microsoft\azure\msal4j\1.24.1\msal4j-1.24.1.jar;A:\Minecraft\.minecraft\libraries\com\mojang\authlib\9.0.75\authlib-9.0.75.jar;A:\Minecraft\.minecraft\libraries\com\mojang\blocklist\1.0.10\blocklist-1.0.10.jar;A:\Minecraft\.minecraft\libraries\com\mojang\brigadier\1.3.10\brigadier-1.3.10.jar;A:\Minecraft\.minecraft\libraries\com\mojang\datafixerupper\10.0.21\datafixerupper-10.0.21.jar;A:\Minecraft\.minecraft\libraries\com\mojang\jtracy\1.0.37\jtracy-1.0.37.jar;A:\Minecraft\.minecraft\libraries\com\mojang\jtracy\1.0.37\jtracy-1.0.37-natives-windows.jar;A:\Minecraft\.minecraft\libraries\com\mojang\logging\1.7.12\logging-1.7.12.jar;A:\Minecraft\.minecraft\libraries\com\mojang\patchy\2.2.10\patchy-2.2.10.jar;A:\Minecraft\.minecraft\libraries\com\mojang\text2speech\1.19.12\text2speech-1.19.12.jar;A:\Minecraft\.minecraft\libraries\commons-codec\commons-codec\1.22.0\commons-codec-1.22.0.jar;A:\Minecraft\.minecraft\libraries\commons-io\commons-io\2.20.0\commons-io-2.20.0.jar;A:\Minecraft\.minecraft\libraries\io\netty\netty-buffer\4.2.15.Final\netty-buffer-4.2.15.Final.jar;A:\Minecraft\.minecraft\libraries\io\netty\netty-codec-base\4.2.15.Final\netty-codec-base-4.2.15.Final.jar;A:\Minecraft\.minecraft\libraries\io\netty\netty-codec-compression\4.2.15.Final\netty-codec-compression-4.2.15.Final.jar;A:\Minecraft\.minecraft\libraries\io\netty\netty-codec-http\4.2.15.Final\netty-codec-http-4.2.15.Final.jar;A:\Minecraft\.minecraft\libraries\io\netty\netty-common\4.2.15.Final\netty-common-4.2.15.Final.jar;A:\Minecraft\.minecraft\libraries\io\netty\netty-handler\4.2.15.Final\netty-handler-4.2.15.Final.jar;A:\Minecraft\.minecraft\libraries\io\netty\netty-resolver\4.2.15.Final\netty-resolver-4.2.15.Final.jar;A:\Minecraft\.minecraft\libraries\io\netty\netty-transport-classes-epoll\4.2.15.Final\netty-transport-classes-epoll-4.2.15.Final.jar;A:\Minecraft\.minecraft\libraries\io\netty\netty-transport-classes-kqueue\4.2.15.Final\netty-transport-classes-kqueue-4.2.15.Final.jar;A:\Minecraft\.minecraft\libraries\io\netty\netty-transport-native-unix-common\4.2.15.Final\netty-transport-native-unix-common-4.2.15.Final.jar;A:\Minecraft\.minecraft\libraries\io\netty\netty-transport\4.2.15.Final\netty-transport-4.2.15.Final.jar;A:\Minecraft\.minecraft\libraries\it\unimi\dsi\fastutil\8.5.18\fastutil-8.5.18.jar;A:\Minecraft\.minecraft\libraries\net\java\dev\jna\jna-platform\5.17.0\jna-platform-5.17.0.jar;A:\Minecraft\.minecraft\libraries\net\java\dev\jna\jna\5.17.0\jna-5.17.0.jar;A:\Minecraft\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;A:\Minecraft\.minecraft\libraries\org\apache\commons\commons-compress\1.28.0\commons-compress-1.28.0.jar;A:\Minecraft\.minecraft\libraries\org\apache\commons\commons-lang3\3.20.0\commons-lang3-3.20.0.jar;A:\Minecraft\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.26.0\log4j-api-2.26.0.jar;A:\Minecraft\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.26.0\log4j-core-2.26.0.jar;A:\Minecraft\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j2-impl\2.26.0\log4j-slf4j2-impl-2.26.0.jar;A:\Minecraft\.minecraft\libraries\org\jcraft\jorbis\0.0.17\jorbis-0.0.17.jar;A:\Minecraft\.minecraft\libraries\org\joml\joml\1.10.8\joml-1.10.8.jar;A:\Minecraft\.minecraft\libraries\org\jspecify\jspecify\1.0.0\jspecify-1.0.0.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-freetype\3.4.1\lwjgl-freetype-3.4.1.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-freetype\3.4.1\lwjgl-freetype-3.4.1-natives-windows.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-freetype\3.4.1\lwjgl-freetype-3.4.1-natives-windows-arm64.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-freetype\3.4.1\lwjgl-freetype-3.4.1-natives-windows-x86.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.4.1\lwjgl-glfw-3.4.1.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.4.1\lwjgl-glfw-3.4.1-natives-windows.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.4.1\lwjgl-glfw-3.4.1-natives-windows-arm64.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.4.1\lwjgl-glfw-3.4.1-natives-windows-x86.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.4.1\lwjgl-jemalloc-3.4.1.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.4.1\lwjgl-jemalloc-3.4.1-natives-windows.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.4.1\lwjgl-jemalloc-3.4.1-natives-windows-arm64.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.4.1\lwjgl-jemalloc-3.4.1-natives-windows-x86.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.4.1\lwjgl-openal-3.4.1.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.4.1\lwjgl-openal-3.4.1-natives-windows.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.4.1\lwjgl-openal-3.4.1-natives-windows-arm64.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.4.1\lwjgl-openal-3.4.1-natives-windows-x86.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.4.1\lwjgl-opengl-3.4.1.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.4.1\lwjgl-opengl-3.4.1-natives-windows.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.4.1\lwjgl-opengl-3.4.1-natives-windows-arm64.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.4.1\lwjgl-opengl-3.4.1-natives-windows-x86.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-shaderc\3.4.1\lwjgl-shaderc-3.4.1.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-shaderc\3.4.1\lwjgl-shaderc-3.4.1-natives-windows.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-shaderc\3.4.1\lwjgl-shaderc-3.4.1-natives-windows-arm64.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-shaderc\3.4.1\lwjgl-shaderc-3.4.1-natives-windows-x86.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-spvc\3.4.1\lwjgl-spvc-3.4.1.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-spvc\3.4.1\lwjgl-spvc-3.4.1-natives-windows.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-spvc\3.4.1\lwjgl-spvc-3.4.1-natives-windows-arm64.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-spvc\3.4.1\lwjgl-spvc-3.4.1-natives-windows-x86.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.4.1\lwjgl-stb-3.4.1.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.4.1\lwjgl-stb-3.4.1-natives-windows.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.4.1\lwjgl-stb-3.4.1-natives-windows-arm64.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.4.1\lwjgl-stb-3.4.1-natives-windows-x86.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.4.1\lwjgl-tinyfd-3.4.1.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.4.1\lwjgl-tinyfd-3.4.1-natives-windows.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.4.1\lwjgl-tinyfd-3.4.1-natives-windows-arm64.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.4.1\lwjgl-tinyfd-3.4.1-natives-windows-x86.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-vma\3.4.1\lwjgl-vma-3.4.1.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-vma\3.4.1\lwjgl-vma-3.4.1-natives-windows.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-vma\3.4.1\lwjgl-vma-3.4.1-natives-windows-arm64.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-vma\3.4.1\lwjgl-vma-3.4.1-natives-windows-x86.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-vulkan\3.4.1\lwjgl-vulkan-3.4.1.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl\3.4.1\lwjgl-3.4.1-natives-windows.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl\3.4.1\lwjgl-3.4.1-natives-windows-arm64.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl\3.4.1\lwjgl-3.4.1-natives-windows-x86.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl\3.4.1\lwjgl-3.4.1-unsafe.jar;A:\Minecraft\.minecraft\libraries\org\slf4j\slf4j-api\2.0.17\slf4j-api-2.0.17.jar;A:\Minecraft\.minecraft\libraries\org\ow2\asm\asm\9.10.1\asm-9.10.1.jar;A:\Minecraft\.minecraft\libraries\org\ow2\asm\asm-analysis\9.10.1\asm-analysis-9.10.1.jar;A:\Minecraft\.minecraft\libraries\org\ow2\asm\asm-commons\9.10.1\asm-commons-9.10.1.jar;A:\Minecraft\.minecraft\libraries\org\ow2\asm\asm-tree\9.10.1\asm-tree-9.10.1.jar;A:\Minecraft\.minecraft\libraries\org\ow2\asm\asm-util\9.10.1\asm-util-9.10.1.jar;A:\Minecraft\.minecraft\libraries\net\fabricmc\sponge-mixin\0.17.3+mixin.0.8.7\sponge-mixin-0.17.3+mixin.0.8.7.jar;A:\Minecraft\.minecraft\libraries\net\fabricmc\fabric-loader\0.19.3\fabric-loader-0.19.3.jar;A:\Minecraft\.minecraft\versions\26.2-Fabric 0.19.3\26.2-Fabric 0.19.3.jar"
+09:49:29.063 I <42 · L/获取启动参数> [ModLaunch] "-DFabricMcEmu=net.minecraft.client.main.Main"
+09:49:29.063 I <42 · L/获取启动参数> [ModLaunch] -XX:-OmitStackTraceInFastThrow
+09:49:29.063 I <42 · L/获取启动参数> [ModLaunch] -Djdk.lang.Process.allowAmbiguousCommands=True
+09:49:29.063 I <42 · L/获取启动参数> [ModLaunch] -Dfml.ignoreInvalidMinecraftCertificates=True
+09:49:29.063 I <42 · L/获取启动参数> [ModLaunch] -Dfml.ignorePatchDiscrepancies=True
+09:49:29.063 I <42 · L/获取启动参数> [ModLaunch] -Xmx5939m
+09:49:29.063 I <42 · L/获取启动参数> [ModLaunch] -XX:+UnlockExperimentalVMOptions
+09:49:29.063 I <42 · L/获取启动参数> [ModLaunch] -XX:+UseCompactObjectHeaders
+09:49:29.063 I <42 · L/获取启动参数> [ModLaunch] -XX:+UseG1GC
+09:49:29.063 I <42 · L/获取启动参数> [ModLaunch] -XX:G1NewSizePercent=20
+09:49:29.063 I <42 · L/获取启动参数> [ModLaunch] -XX:G1ReservePercent=20
+09:49:29.063 I <42 · L/获取启动参数> [ModLaunch] -XX:G1HeapRegionSize=32M
+09:49:29.063 I <42 · L/获取启动参数> [ModLaunch] -XX:MaxGCPauseMillis=50
+09:49:29.063 I <42 · L/获取启动参数> [ModLaunch] -XX:+PerfDisableSharedMem
+09:49:29.063 I <42 · L/获取启动参数> [ModLaunch] -XX:MinHeapFreeRatio=25
+09:49:29.063 I <42 · L/获取启动参数> [ModLaunch] -XX:MaxHeapFreeRatio=40
+09:49:29.063 I <42 · L/获取启动参数> [ModLaunch] -Dlog4j2.formatMsgNoLookups=true
+09:49:29.064 I <42 · L/获取启动参数> [ModLaunch] -Dstdout.encoding=utf-8
+09:49:29.064 I <42 · L/获取启动参数> [ModLaunch] -Dstderr.encoding=utf-8
+09:49:29.064 I <42 · L/获取启动参数> [ModLaunch] net.fabricmc.loader.impl.launch.knot.KnotClient
+09:49:29.064 I <42 · L/获取启动参数> [ModLaunch] --username
+09:49:29.064 I <42 · L/获取启动参数> [ModLaunch] lonlost
+09:49:29.064 I <42 · L/获取启动参数> [ModLaunch] --version
+09:49:29.064 I <42 · L/获取启动参数> [ModLaunch] "26.2-Fabric 0.19.3"
+09:49:29.064 I <42 · L/获取启动参数> [ModLaunch] --gameDir
+09:49:29.064 I <42 · L/获取启动参数> [ModLaunch] "A:\Minecraft\.minecraft\versions\26.2-Fabric 0.19.3"
+09:49:29.064 I <42 · L/获取启动参数> [ModLaunch] --assetsDir
+09:49:29.064 I <42 · L/获取启动参数> [ModLaunch] A:\Minecraft\.minecraft\assets
+09:49:29.064 I <42 · L/获取启动参数> [ModLaunch] --assetIndex
+09:49:29.064 I <42 · L/获取启动参数> [ModLaunch] 32
+09:49:29.064 I <42 · L/获取启动参数> [ModLaunch] --uuid
+09:49:29.064 I <42 · L/获取启动参数> [ModLaunch] 0000000000003007998FFD420EE790E4
+09:49:29.064 I <42 · L/获取启动参数> [ModLaunch] --accessToken
+09:49:29.064 I <42 · L/获取启动参数> [ModLaunch] 0000000000003007998FFD420EE790E4
+09:49:29.064 I <42 · L/获取启动参数> [ModLaunch] --clientId
+09:49:29.067 I <42 · L/获取启动参数> [ModLaunch] ${clientid}
+09:49:29.067 I <42 · L/获取启动参数> [ModLaunch] --xuid
+09:49:29.067 I <42 · L/获取启动参数> [ModLaunch] ${auth_xuid}
+09:49:29.067 I <42 · L/获取启动参数> [ModLaunch] --versionType
+09:49:29.067 I <42 · L/获取启动参数> [ModLaunch] PCL
+09:49:29.067 I <42 · L/获取启动参数> [ModLaunch] --width
+09:49:29.067 I <42 · L/获取启动参数> [ModLaunch] 854
+09:49:29.067 I <42 · L/获取启动参数> [ModLaunch] --height
+09:49:29.067 I <42 · L/获取启动参数> [ModLaunch] 480
+09:49:29.067 I <42 · L/获取启动参数> [ModLaunch] =================== 启动参数结束 ===================
+09:49:29.067 I <42 · L/获取启动参数> [ModLoader] 加载器 LoaderTask`2 获取启动参数 状态改变：Finished
+09:49:29.068 I <42 · L/获取启动参数> [ModLoader] 加载器 LoaderTask`2 解压文件 状态改变：Loading
+09:49:29.098 I <43 · L/解压文件> [ModLaunch] 正在解压 Natives 文件
+09:49:29.098 I <43 · L/解压文件> [ModMinecraft] 获取支持库列表：26.2-Fabric 0.19.3
+09:49:29.102 I <43 · L/解压文件> [ModLoader] 加载器 LoaderTask`2 解压文件 状态改变：Finished
+09:49:29.103 I <43 · L/解压文件> [ModLoader] 加载器 LoaderTask`2 预启动处理 状态改变：Loading
+09:49:29.121 I <37 · L/预启动处理> [ModMain] 无需调整显卡设置：C:\Users\*************\AppData\Roaming\.minecraft\runtime\java-runtime-epsilon\bin\java.exe
+09:49:29.123 I <37 · L/预启动处理> [ModMain] 无需调整显卡设置：A:\Minecraft\Plain Craft Launcher 2.exe
+09:49:29.126 I <37 · L/预启动处理> [ModLaunch] 需要的语言为 zh_cn，当前语言为 zh_cn，无需修改
+09:49:29.126 I <37 · L/预启动处理> [ModLoader] 加载器 LoaderTask`2 预启动处理 状态改变：Finished
+09:49:29.127 I <37 · L/预启动处理> [ModLoader] 加载器 LoaderTask`2 执行自定义命令 状态改变：Loading
+09:49:31.027 I <35 · L/执行自定义命令> [ModLoader] 加载器 LoaderTask`2 执行自定义命令 状态改变：Finished
+09:49:31.033 I <35 · L/执行自定义命令> [ModLoader] 加载器 LoaderTask`2 启动进程 状态改变：Loading
+09:49:31.044 I <33 · L/启动进程> [ModBase] 启动进程：C:\Users\*************\AppData\Roaming\.minecraft\runtime\java-runtime-epsilon\bin\java.exe -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump --sun-misc-unsafe-memory-access=allow --enable-native-access=ALL-UNNAMED "-Djava.library.path=A:\Minecraft\.minecraft\versions\26.2-Fabric 0.19.3\26.2-Fabric 0.19.3-natives/java" "-Djna.tmpdir=A:\Minecraft\.minecraft\versions\26.2-Fabric 0.19.3\26.2-Fabric 0.19.3-natives/jna" "-Dorg.lwjgl.system.SharedLibraryExtractPath=A:\Minecraft\.minecraft\versions\26.2-Fabric 0.19.3\26.2-Fabric 0.19.3-natives/lwjgl" "-Dio.netty.native.workdir=A:\Minecraft\.minecraft\versions\26.2-Fabric 0.19.3\26.2-Fabric 0.19.3-natives/netty" -Dminecraft.launcher.brand=PCL -Dminecraft.launcher.version=408 -cp "A:\Minecraft\.minecraft\libraries\at\yawk\lz4\lz4-java\1.10.1\lz4-java-1.10.1.jar;A:\Minecraft\.minecraft\libraries\com\azure\azure-json\1.4.0\azure-json-1.4.0.jar;A:\Minecraft\.minecraft\libraries\com\github\oshi\oshi-core\6.9.0\oshi-core-6.9.0.jar;A:\Minecraft\.minecraft\libraries\com\google\code\gson\gson\2.14.0\gson-2.14.0.jar;A:\Minecraft\.minecraft\libraries\com\google\guava\failureaccess\1.0.3\failureaccess-1.0.3.jar;A:\Minecraft\.minecraft\libraries\com\google\guava\guava\33.6.0-jre\guava-33.6.0-jre.jar;A:\Minecraft\.minecraft\libraries\com\ibm\icu\icu4j\78.3\icu4j-78.3.jar;A:\Minecraft\.minecraft\libraries\com\microsoft\azure\msal4j\1.24.1\msal4j-1.24.1.jar;A:\Minecraft\.minecraft\libraries\com\mojang\authlib\9.0.75\authlib-9.0.75.jar;A:\Minecraft\.minecraft\libraries\com\mojang\blocklist\1.0.10\blocklist-1.0.10.jar;A:\Minecraft\.minecraft\libraries\com\mojang\brigadier\1.3.10\brigadier-1.3.10.jar;A:\Minecraft\.minecraft\libraries\com\mojang\datafixerupper\10.0.21\datafixerupper-10.0.21.jar;A:\Minecraft\.minecraft\libraries\com\mojang\jtracy\1.0.37\jtracy-1.0.37.jar;A:\Minecraft\.minecraft\libraries\com\mojang\jtracy\1.0.37\jtracy-1.0.37-natives-windows.jar;A:\Minecraft\.minecraft\libraries\com\mojang\logging\1.7.12\logging-1.7.12.jar;A:\Minecraft\.minecraft\libraries\com\mojang\patchy\2.2.10\patchy-2.2.10.jar;A:\Minecraft\.minecraft\libraries\com\mojang\text2speech\1.19.12\text2speech-1.19.12.jar;A:\Minecraft\.minecraft\libraries\commons-codec\commons-codec\1.22.0\commons-codec-1.22.0.jar;A:\Minecraft\.minecraft\libraries\commons-io\commons-io\2.20.0\commons-io-2.20.0.jar;A:\Minecraft\.minecraft\libraries\io\netty\netty-buffer\4.2.15.Final\netty-buffer-4.2.15.Final.jar;A:\Minecraft\.minecraft\libraries\io\netty\netty-codec-base\4.2.15.Final\netty-codec-base-4.2.15.Final.jar;A:\Minecraft\.minecraft\libraries\io\netty\netty-codec-compression\4.2.15.Final\netty-codec-compression-4.2.15.Final.jar;A:\Minecraft\.minecraft\libraries\io\netty\netty-codec-http\4.2.15.Final\netty-codec-http-4.2.15.Final.jar;A:\Minecraft\.minecraft\libraries\io\netty\netty-common\4.2.15.Final\netty-common-4.2.15.Final.jar;A:\Minecraft\.minecraft\libraries\io\netty\netty-handler\4.2.15.Final\netty-handler-4.2.15.Final.jar;A:\Minecraft\.minecraft\libraries\io\netty\netty-resolver\4.2.15.Final\netty-resolver-4.2.15.Final.jar;A:\Minecraft\.minecraft\libraries\io\netty\netty-transport-classes-epoll\4.2.15.Final\netty-transport-classes-epoll-4.2.15.Final.jar;A:\Minecraft\.minecraft\libraries\io\netty\netty-transport-classes-kqueue\4.2.15.Final\netty-transport-classes-kqueue-4.2.15.Final.jar;A:\Minecraft\.minecraft\libraries\io\netty\netty-transport-native-unix-common\4.2.15.Final\netty-transport-native-unix-common-4.2.15.Final.jar;A:\Minecraft\.minecraft\libraries\io\netty\netty-transport\4.2.15.Final\netty-transport-4.2.15.Final.jar;A:\Minecraft\.minecraft\libraries\it\unimi\dsi\fastutil\8.5.18\fastutil-8.5.18.jar;A:\Minecraft\.minecraft\libraries\net\java\dev\jna\jna-platform\5.17.0\jna-platform-5.17.0.jar;A:\Minecraft\.minecraft\libraries\net\java\dev\jna\jna\5.17.0\jna-5.17.0.jar;A:\Minecraft\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;A:\Minecraft\.minecraft\libraries\org\apache\commons\commons-compress\1.28.0\commons-compress-1.28.0.jar;A:\Minecraft\.minecraft\libraries\org\apache\commons\commons-lang3\3.20.0\commons-lang3-3.20.0.jar;A:\Minecraft\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.26.0\log4j-api-2.26.0.jar;A:\Minecraft\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.26.0\log4j-core-2.26.0.jar;A:\Minecraft\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j2-impl\2.26.0\log4j-slf4j2-impl-2.26.0.jar;A:\Minecraft\.minecraft\libraries\org\jcraft\jorbis\0.0.17\jorbis-0.0.17.jar;A:\Minecraft\.minecraft\libraries\org\joml\joml\1.10.8\joml-1.10.8.jar;A:\Minecraft\.minecraft\libraries\org\jspecify\jspecify\1.0.0\jspecify-1.0.0.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-freetype\3.4.1\lwjgl-freetype-3.4.1.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-freetype\3.4.1\lwjgl-freetype-3.4.1-natives-windows.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-freetype\3.4.1\lwjgl-freetype-3.4.1-natives-windows-arm64.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-freetype\3.4.1\lwjgl-freetype-3.4.1-natives-windows-x86.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.4.1\lwjgl-glfw-3.4.1.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.4.1\lwjgl-glfw-3.4.1-natives-windows.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.4.1\lwjgl-glfw-3.4.1-natives-windows-arm64.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.4.1\lwjgl-glfw-3.4.1-natives-windows-x86.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.4.1\lwjgl-jemalloc-3.4.1.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.4.1\lwjgl-jemalloc-3.4.1-natives-windows.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.4.1\lwjgl-jemalloc-3.4.1-natives-windows-arm64.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.4.1\lwjgl-jemalloc-3.4.1-natives-windows-x86.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.4.1\lwjgl-openal-3.4.1.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.4.1\lwjgl-openal-3.4.1-natives-windows.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.4.1\lwjgl-openal-3.4.1-natives-windows-arm64.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.4.1\lwjgl-openal-3.4.1-natives-windows-x86.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.4.1\lwjgl-opengl-3.4.1.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.4.1\lwjgl-opengl-3.4.1-natives-windows.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.4.1\lwjgl-opengl-3.4.1-natives-windows-arm64.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.4.1\lwjgl-opengl-3.4.1-natives-windows-x86.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-shaderc\3.4.1\lwjgl-shaderc-3.4.1.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-shaderc\3.4.1\lwjgl-shaderc-3.4.1-natives-windows.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-shaderc\3.4.1\lwjgl-shaderc-3.4.1-natives-windows-arm64.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-shaderc\3.4.1\lwjgl-shaderc-3.4.1-natives-windows-x86.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-spvc\3.4.1\lwjgl-spvc-3.4.1.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-spvc\3.4.1\lwjgl-spvc-3.4.1-natives-windows.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-spvc\3.4.1\lwjgl-spvc-3.4.1-natives-windows-arm64.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-spvc\3.4.1\lwjgl-spvc-3.4.1-natives-windows-x86.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.4.1\lwjgl-stb-3.4.1.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.4.1\lwjgl-stb-3.4.1-natives-windows.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.4.1\lwjgl-stb-3.4.1-natives-windows-arm64.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.4.1\lwjgl-stb-3.4.1-natives-windows-x86.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.4.1\lwjgl-tinyfd-3.4.1.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.4.1\lwjgl-tinyfd-3.4.1-natives-windows.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.4.1\lwjgl-tinyfd-3.4.1-natives-windows-arm64.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.4.1\lwjgl-tinyfd-3.4.1-natives-windows-x86.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-vma\3.4.1\lwjgl-vma-3.4.1.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-vma\3.4.1\lwjgl-vma-3.4.1-natives-windows.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-vma\3.4.1\lwjgl-vma-3.4.1-natives-windows-arm64.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-vma\3.4.1\lwjgl-vma-3.4.1-natives-windows-x86.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl-vulkan\3.4.1\lwjgl-vulkan-3.4.1.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl\3.4.1\lwjgl-3.4.1-natives-windows.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl\3.4.1\lwjgl-3.4.1-natives-windows-arm64.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl\3.4.1\lwjgl-3.4.1-natives-windows-x86.jar;A:\Minecraft\.minecraft\libraries\org\lwjgl\lwjgl\3.4.1\lwjgl-3.4.1-unsafe.jar;A:\Minecraft\.minecraft\libraries\org\slf4j\slf4j-api\2.0.17\slf4j-api-2.0.17.jar;A:\Minecraft\.minecraft\libraries\org\ow2\asm\asm\9.10.1\asm-9.10.1.jar;A:\Minecraft\.minecraft\libraries\org\ow2\asm\asm-analysis\9.10.1\asm-analysis-9.10.1.jar;A:\Minecraft\.minecraft\libraries\org\ow2\asm\asm-commons\9.10.1\asm-commons-9.10.1.jar;A:\Minecraft\.minecraft\libraries\org\ow2\asm\asm-tree\9.10.1\asm-tree-9.10.1.jar;A:\Minecraft\.minecraft\libraries\org\ow2\asm\asm-util\9.10.1\asm-util-9.10.1.jar;A:\Minecraft\.minecraft\libraries\net\fabricmc\sponge-mixin\0.17.3+mixin.0.8.7\sponge-mixin-0.17.3+mixin.0.8.7.jar;A:\Minecraft\.minecraft\libraries\net\fabricmc\fabric-loader\0.19.3\fabric-loader-0.19.3.jar;A:\Minecraft\.minecraft\versions\26.2-Fabric 0.19.3\26.2-Fabric 0.19.3.jar" "-DFabricMcEmu=net.minecraft.client.main.Main" -XX:-OmitStackTraceInFastThrow -Djdk.lang.Process.allowAmbiguousCommands=True -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Xmx5939m -XX:+UnlockExperimentalVMOptions -XX:+UseCompactObjectHeaders -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:G1HeapRegionSize=32M -XX:MaxGCPauseMillis=50 -XX:+PerfDisableSharedMem -XX:MinHeapFreeRatio=25 -XX:MaxHeapFreeRatio=40 -Dlog4j2.formatMsgNoLookups=true -Dstdout.encoding=utf-8 -Dstderr.encoding=utf-8 net.fabricmc.loader.impl.launch.knot.KnotClient --username lonlost --version "26.2-Fabric 0.19.3" --gameDir "A:\Minecraft\.minecraft\versions\26.2-Fabric 0.19.3" --assetsDir A:\Minecraft\.minecraft\assets --assetIndex 32 --uuid 00000**********************790E4 --accessToken 00000**********************790E4 --clientId ${clientid} --xuid ${auth_xuid} --versionType PCL --width 854 --height 480
+09:49:31.141 I <33 · L/启动进程> [ModLaunch] 已启动游戏进程：C:\Users\*************\AppData\Roaming\.minecraft\runtime\java-runtime-epsilon\bin\java.exe
+09:49:31.143 I <33 · L/启动进程> [ModLoader] 加载器 LoaderTask`2 启动进程 状态改变：Finished
+09:49:31.144 I <33 · L/启动进程> [ModLoader] 加载器 LoaderTask`2 等待游戏窗口出现 状态改变：Loading
+09:49:31.150 I <36 · L/等待游戏窗口出现> [ModLaunch] 
+09:49:31.151 I <36 · L/等待游戏窗口出现> [ModLaunch] ~ 基础参数 ~
+09:49:31.151 I <36 · L/等待游戏窗口出现> [ModLaunch] PCL 版本：正式版 2.13.1.1 (408)
+09:49:31.151 I <36 · L/等待游戏窗口出现> [ModLaunch] 游戏版本：正式版 26.2, Fabric 0.19.3（26.2.0，Drop 262）
+09:49:31.151 I <36 · L/等待游戏窗口出现> [ModLaunch] 资源版本：32
+09:49:31.151 I <36 · L/等待游戏窗口出现> [ModLaunch] 版本继承：无
+09:49:31.151 I <36 · L/等待游戏窗口出现> [ModLaunch] 分配的内存：5.8 GB（5939 MB）
+09:49:31.151 I <36 · L/等待游戏窗口出现> [ModLaunch] MC 文件夹：A:\Minecraft\.minecraft\
+09:49:31.151 I <36 · L/等待游戏窗口出现> [ModLaunch] 版本文件夹：A:\Minecraft\.minecraft\versions\26.2-Fabric 0.19.3\
+09:49:31.151 I <36 · L/等待游戏窗口出现> [ModLaunch] 版本隔离：True
+09:49:31.151 I <36 · L/等待游戏窗口出现> [ModLaunch] HMCL 格式：False
+09:49:31.152 I <36 · L/等待游戏窗口出现> [ModLaunch] Java 信息：Java 25 (25.0.1.0)：C:\Users\*************\AppData\Roaming\.minecraft\runtime\java-runtime-epsilon\bin\
+09:49:31.152 I <36 · L/等待游戏窗口出现> [ModLaunch] Natives 文件夹：A:\Minecraft\.minecraft\versions\26.2-Fabric 0.19.3\26.2-Fabric 0.19.3-natives\
+09:49:31.152 I <36 · L/等待游戏窗口出现> [ModLaunch] 
+09:49:31.152 I <36 · L/等待游戏窗口出现> [ModLaunch] ~ 登录参数 ~
+09:49:31.152 I <36 · L/等待游戏窗口出现> [ModLaunch] 玩家用户名：lonlost
+09:49:31.152 I <36 · L/等待游戏窗口出现> [ModLaunch] AccessToken：0000000000003007998FFD420EE790E4
+09:49:31.152 I <36 · L/等待游戏窗口出现> [ModLaunch] ClientToken：0000000000003007998FFD420EE790E4
+09:49:31.152 I <36 · L/等待游戏窗口出现> [ModLaunch] UUID：0000000000003007998FFD420EE790E4
+09:49:31.152 I <36 · L/等待游戏窗口出现> [ModLaunch] 登录方式：Legacy
+09:49:31.152 I <36 · L/等待游戏窗口出现> [ModLaunch] 
+09:49:31.165 I <36 · L/等待游戏窗口出现> [ModLaunch] [4156] 开始 Minecraft 日志监控
+09:49:31.165 I <36 · L/等待游戏窗口出现> [ModLaunch] [全局] 出现运行中的 Minecraft
+09:49:37.429 I <38 · Minecraft Watcher PID 4156> [ModLaunch] [4156] 日志 1/5：已出现日志输出
+09:49:53.040 I [ModAnimation] FPS 0, 动画 7, 下载中 0（0 B/s）
+09:50:00.069 I [ModAnimation] FPS 0, 动画 6, 下载中 0（0 B/s）
+09:51:07.281 I [ModAnimation] 两个动画帧间隔 531 ms
+09:51:09.826 I [ModAnimation] 两个动画帧间隔 1855 ms
+09:51:11.274 I [MyIconButton] 按下图标按钮：BtnTitleClose
+09:51:12.659 I [FormMain] 收到关闭指令
+09:51:12.673 I [ModAnimation] 两个动画帧间隔 1393 ms
+09:51:12.689 I [FormMain] 程序已退出，返回值：Success

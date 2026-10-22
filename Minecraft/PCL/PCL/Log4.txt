@@ -1,0 +1,130 @@
+09:48:54.211 I [Application] 程序版本：正式版 2.13.1.1 (408)
+09:48:54.223 I [Application] 识别码：0806-E6D2-1980-1F7F
+09:48:54.223 I [Application] 程序路径：A:\Minecraft\Plain Craft Launcher 2.exe
+09:48:54.223 I [Application] 系统编码：gb2312 (936, GBK=True)
+09:48:54.224 I [Application] 管理员权限：False
+09:48:54.225 I [Application] 第一阶段加载用时：2202 ms
+09:48:54.328 I [FormMain] 全新的 PCL，使用新的版本隔离默认值
+09:48:54.344 I [ModSecret] 刷新主题：0
+09:48:54.404 I [ModLoader] 加载器 LoaderTask`2 Minecraft Folder List 状态改变：Loading
+09:48:54.405 I [FormMain] 第二阶段加载用时：164 ms
+09:48:54.416 I <5 · L/Minecraft Folder List> [ModLoader] 加载器 LoaderTask`2 Minecraft Folder List 状态改变：Finished
+09:48:54.564 I [FormMain] 从设置更新背景图片与标题栏样式
+09:48:54.633 I [FormMain] 窗口已置顶，位置：(270, 155), 900 x 550
+09:48:54.644 I <7 · Animation> [ModAnimation] 动画线程开始
+09:48:54.646 I [FormMain] 第三阶段加载用时：88 ms
+09:48:54.668 I <11 · Version Check> [ModMinecraft] 当前选择的 Minecraft 文件夹：A:\Minecraft\.minecraft\
+09:48:54.764 I [ModLoader] 加载器 LoaderTask`2 Loader Skin Legacy 状态改变：Loading
+09:48:54.771 I <13 · L/Loader Skin Legacy> [ModLoader] 加载器 LoaderTask`2 Loader Skin Legacy 状态改变：Finished
+09:48:54.881 I [ModAnimation] 两个动画帧间隔 211 ms
+09:48:54.907 I [PageLaunchRight] 实例化：清空主页 UI，来源为空
+09:48:54.932 I [MySkin] 载入头像成功：Loader Skin Legacy
+09:48:55.065 I <9 · 初始化> [ModJava] 共有 2 个可用的 Java：
+09:48:55.065 I <9 · 初始化> [ModJava] - Java 25 (25.0.1.0)：C:\Users\*************\AppData\Roaming\.minecraft\runtime\java-runtime-epsilon\bin\
+09:48:55.065 I <9 · 初始化> [ModJava] - Java 21 (21.0.7.0)：C:\Users\*************\AppData\Roaming\.minecraft\runtime\java-runtime-delta\bin\
+09:48:55.191 I <9 · 初始化> [ModLoader] 加载器 LoaderTask`2 DlClientList Mojang 状态改变：Loading
+09:48:55.197 I <9 · 初始化> [ModLoader] 加载器 LoaderTask`2 PCL 配置更新 状态改变：Loading
+09:48:55.200 I <16 · TryClearTaskTemp> [ModMain] 开始清理任务缓存文件夹
+09:48:55.203 I <16 · TryClearTaskTemp> [ModMain] 已清理任务缓存文件夹
+09:48:55.203 I <14 · L/DlClientList Mojang> [ModNet] 发起网络请求（GET，https://launchermeta.mojang.com/mc/game/version_manifest.json），最大超时 10000
+09:48:55.207 I <17 · Telemetry> [ModMain] 匿名数据上报：启动
+09:48:55.233 I <15 · L/PCL 配置更新> [ModSecret] 已读取本地缓存的配置：38
+09:48:55.233 I <15 · L/PCL 配置更新> [ModNet] 发起网络请求（GET，https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg{CDN}），最大超时 10000
+09:48:55.363 I [FormMain] DPI：96，系统版本：Microsoft Windows NT 10.0.19045.0，PCL 位置：A:\Minecraft\Plain Craft Launcher 2.exe
+09:48:55.600 I <15 · L/PCL 配置更新> [ModSecret] 本地公告编号：225，服务器公告：225|412|408|6|38，无需更新
+09:48:55.602 I <15 · L/PCL 配置更新> [ModSecret] 复制自身为最新正式版：版本号升高到 408
+09:48:55.614 I <15 · L/PCL 配置更新> [ModLoader] 加载器 LoaderTask`2 PCL 配置更新 状态改变：Finished
+09:48:56.057 I <14 · L/DlClientList Mojang> [ModDownload] Mojang 官方源加载耗时：858ms，可优先使用官方源
+09:48:56.061 I <14 · L/DlClientList Mojang> [ModLoader] 加载器 LoaderTask`2 DlClientList Mojang 状态改变：Finished
+09:48:58.023 I [MyRadioButton] 按下单选按钮：下载
+09:48:58.127 I [ModLoader] 加载器 LoaderTask`2 DlClientList Main 状态改变：Loading
+09:48:58.141 I [FormMain] 切换主要页面：Download, -1
+09:48:58.143 I <17 · L/DlClientList Main> [ModLoader] 加载器 LoaderTask`2 DlClientList Mojang 状态改变：Loading
+09:48:58.144 I <16 · L/DlClientList Mojang> [ModNet] 发起网络请求（GET，https://launchermeta.mojang.com/mc/game/version_manifest.json），最大超时 10000
+09:48:58.152 I [ModAnimation] 两个动画帧间隔 126 ms
+09:48:58.175 I [ModLoader] 加载器 LoaderTask`2 DlOptiFineList Main 状态改变：Loading
+09:48:58.178 I [ModLoader] 加载器 LoaderTask`2 DlLiteLoaderList Main 状态改变：Loading
+09:48:58.182 I [ModLoader] 加载器 LoaderTask`2 DlFabricList Main 状态改变：Loading
+09:48:58.185 I <12 · L/DlOptiFineList Main> [ModLoader] 加载器 LoaderTask`2 DlOptiFineList Official 状态改变：Loading
+09:48:58.190 I [ModLoader] 加载器 LoaderTask`2 DlNeoForgeList Main 状态改变：Loading
+09:48:58.192 I <16 · L/DlClientList Mojang> [ModLoader] 加载器 LoaderTask`2 DlClientList Mojang 状态改变：Finished
+09:48:58.196 I <28 · L/DlFabricList Main> [ModLoader] 加载器 LoaderTask`2 DlFabricList Official 状态改变：Loading
+09:48:58.197 I <10 · L/DlLiteLoaderList Main> [ModLoader] 加载器 LoaderTask`2 DlLiteLoaderList Official 状态改变：Loading
+09:48:58.198 I <31 · L/DlFabricList Official> [ModNet] 发起网络请求（GET，https://meta.fabricmc.net/v2/versions），最大超时 10000
+09:48:58.200 I <30 · L/DlNeoForgeList Main> [ModLoader] 加载器 LoaderTask`2 DlNeoForgeList Official 状态改变：Loading
+09:48:58.204 I <29 · L/DlOptiFineList Official> [ModNet] 发起网络请求（GET，https://optifine.net/downloads），最大超时 10000
+09:48:58.206 I <32 · L/DlLiteLoaderList Official> [ModNet] 发起网络请求（GET，https://dl.liteloader.com/versions/versions.json），最大超时 10000
+09:48:58.207 I <34 · L/DlNeoForgeList Official> [ModNet] 发起网络请求（GET，https://maven.neoforged.net/api/maven/versions/releases/net/neoforged/neoforge），最大超时 10000
+09:48:58.220 I <38 · ForgeRecommendedRefresh> [ModDownloadLib] 刷新 Forge 推荐版本缓存开始
+09:48:58.220 I <38 · ForgeRecommendedRefresh> [ModNet] 发起网络请求（GET，https://bmclapi2.bangbang93.com/forge/promos），最大超时 10000
+09:48:58.306 I <17 · L/DlClientList Main> [ModLoader] 加载器 LoaderTask`2 DlClientList Main 状态改变：Finished
+09:48:58.597 I <38 · ForgeRecommendedRefresh> [ModDownloadLib] 刷新 Forge 推荐版本缓存成功
+09:48:58.762 I <4 · Logger> [Logger] PclLogger 日志初始化结束
+09:48:58.809 I [ModMinecraft] 当前选择的 Minecraft 版本：A:\Minecraft\.minecraft\versions\26.2-Fabric 0.19.3\
+09:48:58.848 I [ModLoader] 加载器 LoaderTask`2 登录 状态改变：Loading
+09:48:58.854 I <38 · L/登录> [ModLaunch] 登录加载已开始
+09:48:58.856 I <38 · L/登录> [ModLoader] 加载器 LoaderTask`2 Loader Login Legacy 状态改变：Loading
+09:48:58.858 I <14 · L/Loader Login Legacy> [ModLaunch] 登录方式：离线（lonlost）
+09:48:58.862 I <14 · L/Loader Login Legacy> [ModLoader] 加载器 LoaderTask`2 Loader Login Legacy 状态改变：Finished
+09:48:58.879 I <31 · L/DlFabricList Official> [ModLoader] 加载器 LoaderTask`2 DlFabricList Official 状态改变：Finished
+09:48:58.882 I <38 · L/登录> [ModLaunch] 登录加载已结束
+09:48:58.882 I <38 · L/登录> [ModLoader] 加载器 LoaderTask`2 登录 状态改变：Finished
+09:48:58.883 I <28 · L/DlFabricList Main> [ModLoader] 加载器 LoaderTask`2 DlFabricList Main 状态改变：Finished
+09:48:58.978 I <32 · L/DlLiteLoaderList Official> [ModLoader] 加载器 LoaderTask`2 DlLiteLoaderList Official 状态改变：Finished
+09:48:58.991 I <10 · L/DlLiteLoaderList Main> [ModLoader] 加载器 LoaderTask`2 DlLiteLoaderList Main 状态改变：Finished
+09:48:59.080 I [MyRadioButton] 按下单选按钮：启动
+09:48:59.080 I [FormMain] 切换主要页面：Launch, -1
+09:48:59.199 I [PageLaunchLeft] 启动按钮：Minecraft 版本：A:\Minecraft\.minecraft\versions\26.2-Fabric 0.19.3\
+09:48:59.916 I <29 · L/DlOptiFineList Official> [ModLoader] 加载器 LoaderTask`2 DlOptiFineList Official 状态改变：Finished
+09:48:59.920 I <12 · L/DlOptiFineList Main> [ModLoader] 加载器 LoaderTask`2 DlOptiFineList Main 状态改变：Finished
+09:49:00.160 I <34 · L/DlNeoForgeList Official> [ModNet] 发起网络请求（GET，https://maven.neoforged.net/api/maven/versions/releases/net/neoforged/forge），最大超时 10000
+09:49:00.318 I [MyButton] 按下按钮：启动游戏
+09:49:00.323 I [ModLoader] 加载器 LoaderTask`2 Loader Launch 状态改变：Loading
+09:49:00.375 I <39 · L/Loader Launch> [ModLaunch] 预检测已通过
+09:49:00.380 I <39 · L/Loader Launch> [ModDownload] 开始后台检查资源文件索引
+09:49:00.381 I <39 · L/Loader Launch> [ModLoader] 加载器 LoaderCombo`1 后台更新资源文件索引 状态改变：Loading
+09:49:00.384 I <39 · L/Loader Launch> [ModLoader] 加载器 LoaderTask`2 后台分析资源文件索引地址 状态改变：Loading
+09:49:00.385 I <39 · L/Loader Launch> [ModLoader] 加载器 LoaderTask`2 登录 状态改变：Waiting
+09:49:00.385 I <39 · L/Loader Launch> [ModLoader] 加载器 LoaderCombo`1 Minecraft 启动 状态改变：Loading
+09:49:00.385 I <39 · L/Loader Launch> [ModLoader] 加载器 LoaderTask`2 获取 Java 状态改变：Loading
+09:49:00.387 I <39 · L/Loader Launch> [ModLoader] 加载器 LoaderTask`2 登录 状态改变：Loading
+09:49:00.387 I <39 · L/Loader Launch> [ModLoader] 加载器 LoaderCombo`1 补全文件 状态改变：Loading
+09:49:00.387 I <48 · L/登录> [ModLaunch] 登录加载已开始
+09:49:00.388 I <48 · L/登录> [ModLaunch] 登录加载已结束
+09:49:00.388 I <48 · L/登录> [ModLoader] 加载器 LoaderTask`2 登录 状态改变：Finished
+09:49:00.389 I <39 · L/Loader Launch> [ModLoader] 加载器 LoaderCombo`1 下载支持库文件（主加载器） 状态改变：Loading
+09:49:00.389 I <39 · L/Loader Launch> [ModLoader] 加载器 LoaderTask`2 分析缺失支持库文件 状态改变：Loading
+09:49:00.390 I <39 · L/Loader Launch> [ModLoader] 加载器 LoaderCombo`1 下载资源文件（主加载器） 状态改变：Loading
+09:49:00.390 I <39 · L/Loader Launch> [ModLoader] 加载器 LoaderTask`2 分析资源文件索引地址 状态改变：Loading
+09:49:00.390 I <46 · L/后台分析资源文件索引地址> [ModDownload] 版本 26.2-Fabric 0.19.3 对应的资源文件索引为 32
+09:49:00.392 I <50 · L/分析资源文件索引地址> [ModDownload] 版本 26.2-Fabric 0.19.3 对应的资源文件索引为 32
+09:49:00.393 I <39 · L/Loader Launch> [ModLoader] 加载器 LoaderTask`2 内存优化 状态改变：Loading
+09:49:00.394 I <46 · L/后台分析资源文件索引地址> [ModLoader] 加载器 LoaderTask`2 后台分析资源文件索引地址 状态改变：Finished
+09:49:00.394 I <51 · L/内存优化> [ModLaunch] 内存优化开始
+09:49:00.399 I <52 · Launch Memory Optimize> [PageOtherTest] 没有管理员权限，将以命令行方式进行内存优化
+09:49:00.400 I <39 · L/Loader Launch> [ModLoader] Minecraft 启动 已加入任务列表
+09:49:00.402 I <46 · L/后台分析资源文件索引地址> [ModLoader] 加载器 LoaderDownload 后台下载资源文件索引 状态改变：Loading
+09:49:00.410 I <52 · Launch Memory Optimize> [ModBase] 启动进程：A:\Minecraft\Plain Craft Launcher 2.exe --memory
+09:49:00.426 I <53 · L/下载 232> [ModNet] 开始清理下载缓存
+09:49:00.426 I <53 · L/下载 232> [ModNet] 下载缓存已清理
+09:49:00.493 I <47 · L/获取 Java> [ModJava] Mojang 要求至少使用 Java 25
+09:49:00.493 I <47 · L/获取 Java> [ModJava] Mojang 要求至少使用 Java 25
+09:49:00.494 I <47 · L/获取 Java> [ModJava] 自动选择以下范围的 Java：[25.0, +∞) java-runtime-epsilon
+09:49:00.517 I <58 · 下载 232/244/248#> [ModNet] 32.json：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/f8a4b0071155bcfad32d83a39d78b6da48b7a6e6/32.json
+09:49:00.601 I <47 · L/获取 Java> [TaskUtils] 运行程序，并返回其输出：C:\Users\*************\AppData\Roaming\.minecraft\runtime\java-runtime-epsilon\bin\java.exe -XshowSettings:properties -version，最长可等待 15000ms
+09:49:00.796 I <34 · L/DlNeoForgeList Official> [ModLoader] 加载器 LoaderTask`2 DlNeoForgeList Official 状态改变：Finished
+09:49:00.812 I <30 · L/DlNeoForgeList Main> [ModLoader] 加载器 LoaderTask`2 DlNeoForgeList Main 状态改变：Finished
+09:49:01.094 I <50 · L/分析资源文件索引地址> [ModLoader] 加载器 LoaderTask`2 分析资源文件索引地址 状态改变：Finished
+09:49:01.094 I <50 · L/分析资源文件索引地址> [ModLoader] 加载器 LoaderDownload 下载资源文件索引 状态改变：Loading
+09:49:01.098 I <43 · L/下载 227> [ModLoader] 加载器 LoaderDownload 下载资源文件索引 状态改变：Finished
+09:49:01.099 I <43 · L/下载 227> [ModLoader] 加载器 LoaderTask`2 获取资源文件列表 状态改变：Loading
+09:49:01.139 I <58 · 下载 232/244/248#> [ModNet] 32.json：文件大小未知
+09:49:01.432 I <57 · NetManager StatRefresher> [ModNet] 速度下限已提升到 415 K
+09:49:01.527 I <57 · NetManager StatRefresher> [ModNet] 速度下限已提升到 506 K
+09:49:01.535 I <58 · 下载 232/244/248#> [ModNet] 32.json：已完成
+09:49:01.536 I <58 · 下载 232/244/248#> [ModLoader] 加载器 LoaderDownload 后台下载资源文件索引 状态改变：Finished
+09:49:01.536 I <58 · 下载 232/244/248#> [ModLoader] 加载器 LoaderCombo`1 后台更新资源文件索引 状态改变：Finished
+09:49:01.576 I <Async> [Java] 检查 Java 成功：Java 25 (25.0.1.0)：C:\Users\*************\AppData\Roaming\.minecraft\runtime\java-runtime-epsilon\bin\
+09:49:01.577 I <47 · L/获取 Java> [ModJava] 已选定 Java：Java 25 (25.0.1.0)：C:\Users\*************\AppData\Roaming\.minecraft\runtime\java-runtime-epsilon\bin\
+09:49:01.578 I <47 · L/获取 Java> [ModLaunch] 选择的 Java：Java 25 (25.0.1.0)：C:\Users\*************\AppData\Roaming\.minecraft\runtime\java-runtime-epsilon\bin\
+09:49:01.578 I <47 · L/获取 Java> [ModLoader] 加载器 LoaderTask`2 获取 Java 状态改变：Finished
